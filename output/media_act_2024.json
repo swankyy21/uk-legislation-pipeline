@@ -1,0 +1,5020 @@
+{
+  "title": "Media Act 2024",
+  "long_title": "An Act to make provision about public service television; about the sustainability of, and programme-making by, C4C; about the name, remit, powers, governance and audit of S4C; about the regulation of television selection services; about the regulation of on-demand programme services; about the regulation of radio services; about the regulation of radio selection services; for the repeal of section 40 of the Crime and Courts Act 2013; for addressing deficiencies in broadcasting legislation arising from the withdrawal of the United Kingdom from the European Union; and for connected purposes.",
+  "type": "ukpga",
+  "document_category": "primary",
+  "document_main_type": "UnitedKingdomPublicGeneralAct",
+  "year": 2024,
+  "number": 15,
+  "status": "revised",
+  "isbn": "9780105702658",
+  "uri": "http://www.legislation.gov.uk/id/ukpga/2024/15",
+  "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15",
+  "this_document_uri": null,
+  "dates": [
+    {
+      "event": "enactment",
+      "date": "2024-05-24"
+    }
+  ],
+  "dc_title": "Media Act 2024",
+  "dc_description": null,
+  "dc_publisher": "Statute Law Database",
+  "dc_subject": [],
+  "dc_modified": "2026-01-16",
+  "dc_valid": "2026-01-01",
+  "dc_language": null,
+  "dc_format": null,
+  "dc_type": null,
+  "dc_rights": null,
+  "dc_identifier": "http://www.legislation.gov.uk/ukpga/2024/15",
+  "dc_contributor": "Expert Participation",
+  "formats": [
+    {
+      "format": "pdf",
+      "url": "http://www.legislation.gov.uk/ukpga/2024/15/pdfs/ukpgaen_20240015_en.pdf",
+      "language": null
+    },
+    {
+      "format": "pdf",
+      "url": "http://www.legislation.gov.uk/ukpga/2024/15/pdfs/ukpga_20240015_en.pdf",
+      "language": null
+    },
+    {
+      "format": "xml",
+      "url": "http://www.legislation.gov.uk/ukpga/2024/15/data.xml",
+      "language": null
+    },
+    {
+      "format": "rdf",
+      "url": "http://www.legislation.gov.uk/ukpga/2024/15/data.rdf",
+      "language": null
+    },
+    {
+      "format": "akn",
+      "url": "http://www.legislation.gov.uk/ukpga/2024/15/data.akn",
+      "language": null
+    },
+    {
+      "format": "html",
+      "url": "http://www.legislation.gov.uk/ukpga/2024/15/data.xht",
+      "language": null
+    },
+    {
+      "format": "html",
+      "url": "http://www.legislation.gov.uk/ukpga/2024/15/data.htm",
+      "language": null
+    },
+    {
+      "format": "csv",
+      "url": "http://www.legislation.gov.uk/ukpga/2024/15/data.csv",
+      "language": null
+    },
+    {
+      "format": "pdf",
+      "url": "http://www.legislation.gov.uk/ukpga/2024/15/data.pdf",
+      "language": null
+    },
+    {
+      "format": "html",
+      "url": "http://www.legislation.gov.uk/ukpga/2024/15/data.html",
+      "language": null
+    }
+  ],
+  "pdf_url": "http://www.legislation.gov.uk/ukpga/2024/15/pdfs/ukpga_20240015_en.pdf",
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/data.xml",
+      "type": "application/xml"
+    },
+    {
+      "rel": "http://www.legislation.gov.uk/def/navigation/resources",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/resources",
+      "title": "More Resources"
+    },
+    {
+      "rel": "http://www.legislation.gov.uk/def/navigation/notes",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/notes",
+      "title": "Explanatory Notes"
+    },
+    {
+      "rel": "http://www.legislation.gov.uk/def/navigation/notes/toc",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/notes/contents",
+      "title": "Explanatory Notes Table of Contents"
+    },
+    {
+      "rel": "http://www.legislation.gov.uk/def/navigation/act",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15",
+      "title": "whole act"
+    },
+    {
+      "rel": "http://www.legislation.gov.uk/def/navigation/introduction",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/introduction",
+      "title": "introduction"
+    },
+    {
+      "rel": "http://www.legislation.gov.uk/def/navigation/body",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/body",
+      "title": "body"
+    },
+    {
+      "rel": "http://www.legislation.gov.uk/def/navigation/schedules",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/schedules",
+      "title": "schedules"
+    },
+    {
+      "rel": "alternate",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/data.rdf",
+      "type": "application/rdf+xml",
+      "title": "RDF/XML"
+    },
+    {
+      "rel": "alternate",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/data.akn",
+      "type": "application/akn+xml",
+      "title": "AKN"
+    },
+    {
+      "rel": "alternate",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/data.xht",
+      "type": "application/xhtml+xml",
+      "title": "HTML snippet"
+    },
+    {
+      "rel": "alternate",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/data.htm",
+      "type": "text/html",
+      "title": "Website (XHTML) Default View"
+    },
+    {
+      "rel": "alternate",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/data.csv",
+      "type": "text/csv",
+      "title": "CSV"
+    },
+    {
+      "rel": "alternate",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/data.pdf",
+      "type": "application/pdf",
+      "title": "PDF"
+    },
+    {
+      "rel": "alternate",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/data.html",
+      "type": "application/akn+xhtml",
+      "title": "HTML5 snippet"
+    },
+    {
+      "rel": "alternate",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/pdfs/ukpga_20240015_en.pdf",
+      "type": "application/pdf",
+      "title": "Original PDF"
+    },
+    {
+      "rel": "http://purl.org/dc/terms/tableOfContents",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/contents",
+      "title": "Table of Contents",
+      "hreflang": "en"
+    },
+    {
+      "rel": "http://purl.org/dc/terms/replaces",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/2025-10-01",
+      "title": "2025-10-01"
+    },
+    {
+      "rel": "http://purl.org/dc/terms/hasVersion",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/enacted",
+      "title": "enacted"
+    },
+    {
+      "rel": "http://purl.org/dc/terms/hasVersion",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/2024-05-24",
+      "title": "2024-05-24"
+    },
+    {
+      "rel": "http://purl.org/dc/terms/hasVersion",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/2024-07-24",
+      "title": "2024-07-24"
+    },
+    {
+      "rel": "http://purl.org/dc/terms/hasVersion",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/2024-08-23",
+      "title": "2024-08-23"
+    },
+    {
+      "rel": "http://purl.org/dc/terms/hasVersion",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/2024-10-17",
+      "title": "2024-10-17"
+    },
+    {
+      "rel": "http://purl.org/dc/terms/hasVersion",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/2025-10-01",
+      "title": "2025-10-01"
+    },
+    {
+      "rel": "http://purl.org/dc/terms/hasVersion",
+      "href": "http://www.legislation.gov.uk/ukpga/2024/15/2026-01-01",
+      "title": "2026-01-01"
+    }
+  ],
+  "associated_documents": [
+    {
+      "uri": "http://www.legislation.gov.uk/ukpga/2024/15/pdfs/ukpgaen_20240015_en.pdf",
+      "title": "Explanatory Note",
+      "date": "2024-06-18",
+      "size": 976376
+    },
+    {
+      "uri": "http://www.legislation.gov.uk/ukpga/2024/15/pdfs/ukpga_20240015_en.pdf",
+      "date": "2024-06-05",
+      "size": 2296694,
+      "print": "true"
+    }
+  ],
+  "versions": [
+    {
+      "version_date": "2025-10-01",
+      "description": "2025-10-01",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/2025-10-01",
+      "relation": "replaces"
+    },
+    {
+      "version_date": null,
+      "description": "enacted",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/enacted",
+      "relation": "hasVersion"
+    },
+    {
+      "version_date": "2024-05-24",
+      "description": "2024-05-24",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/2024-05-24",
+      "relation": "hasVersion"
+    },
+    {
+      "version_date": "2024-07-24",
+      "description": "2024-07-24",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/2024-07-24",
+      "relation": "hasVersion"
+    },
+    {
+      "version_date": "2024-08-23",
+      "description": "2024-08-23",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/2024-08-23",
+      "relation": "hasVersion"
+    },
+    {
+      "version_date": "2024-10-17",
+      "description": "2024-10-17",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/2024-10-17",
+      "relation": "hasVersion"
+    },
+    {
+      "version_date": "2025-10-01",
+      "description": "2025-10-01",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/2025-10-01",
+      "relation": "hasVersion"
+    },
+    {
+      "version_date": "2026-01-01",
+      "description": "2026-01-01",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/2026-01-01",
+      "relation": "hasVersion"
+    }
+  ],
+  "extent": null,
+  "extent_uri": null,
+  "restrict_extent": "E+W+S+N.I.",
+  "restrict_start_date": "2026-01-01",
+  "restrict_end_date": null,
+  "contents": [
+    {
+      "number": "Part 1",
+      "title": "Public service television",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/1",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/1",
+      "level": "part"
+    },
+    {
+      "number": null,
+      "title": "The public service remit for television",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/1/crossheading/the-public-service-remit-for-television",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/1/crossheading/the-public-service-remit-for-television",
+      "level": "crossheading"
+    },
+    {
+      "number": "1",
+      "title": "Reports on the fulfilment of the public service remit",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/1",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/1",
+      "level": "section"
+    },
+    {
+      "number": "2",
+      "title": "OFCOM reports: wider review and reporting obligations",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/2",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/2",
+      "level": "section"
+    },
+    {
+      "number": "3",
+      "title": "Public service remits of licensed providers",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/3",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/3",
+      "level": "section"
+    },
+    {
+      "number": "4",
+      "title": "Statements of programme policy",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/4",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/4",
+      "level": "section"
+    },
+    {
+      "number": "5",
+      "title": "Changes of programme policy",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/5",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/5",
+      "level": "section"
+    },
+    {
+      "number": "6",
+      "title": "Enforcement of public service remits",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/6",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/6",
+      "level": "section"
+    },
+    {
+      "number": "7",
+      "title": "Power to amend public service remit for television in the United Kingdom",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/7",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/7",
+      "level": "section"
+    },
+    {
+      "number": null,
+      "title": "Programming quotas for public service television",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/1/crossheading/programming-quotas-for-public-service-television",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/1/crossheading/programming-quotas-for-public-service-television",
+      "level": "crossheading"
+    },
+    {
+      "number": "8",
+      "title": "Quotas: independent productions",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/8",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/8",
+      "level": "section"
+    },
+    {
+      "number": "9",
+      "title": "Quotas: original productions",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/9",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/9",
+      "level": "section"
+    },
+    {
+      "number": "10",
+      "title": "Power to create additional quotas for qualifying audiovisual content",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/10",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/10",
+      "level": "section"
+    },
+    {
+      "number": "11",
+      "title": "Quotas: meaning of “qualifying audiovisual content” etc",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/11",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/11",
+      "level": "section"
+    },
+    {
+      "number": "12",
+      "title": "Quotas: further provision about their fulfilment",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/12",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/12",
+      "level": "section"
+    },
+    {
+      "number": "13",
+      "title": "Quotas: independent productions: commissioning code",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/13",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/13",
+      "level": "section"
+    },
+    {
+      "number": "14",
+      "title": "Regional programme-making: Channels 3, 4 and 5",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/14",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/14",
+      "level": "section"
+    },
+    {
+      "number": "15",
+      "title": "Networking arrangements for Channel 3",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/15",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/15",
+      "level": "section"
+    },
+    {
+      "number": "16",
+      "title": "Removal of quotas for schools programmes on Channel 4",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/16",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/16",
+      "level": "section"
+    },
+    {
+      "number": "17",
+      "title": "Quotas: the BBC and S4C",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/17",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/17",
+      "level": "section"
+    },
+    {
+      "number": null,
+      "title": "Information",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/1/crossheading/information",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/1/crossheading/information",
+      "level": "crossheading"
+    },
+    {
+      "number": "18",
+      "title": "Power to require information",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/18",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/18",
+      "level": "section"
+    },
+    {
+      "number": null,
+      "title": "Amount of financial penalties",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/1/crossheading/amount-of-financial-penalties",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/1/crossheading/amount-of-financial-penalties",
+      "level": "crossheading"
+    },
+    {
+      "number": "19",
+      "title": "Amount of financial penalties: qualifying revenue",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/19",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/19",
+      "level": "section"
+    },
+    {
+      "number": null,
+      "title": "Sporting and other events of national interest",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/1/crossheading/sporting-and-other-events-of-national-interest",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/1/crossheading/sporting-and-other-events-of-national-interest",
+      "level": "crossheading"
+    },
+    {
+      "number": "20",
+      "title": "Categories of relevant service",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/20",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/20",
+      "level": "section"
+    },
+    {
+      "number": "21",
+      "title": "Contracts relating to coverage of listed events",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/21",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/21",
+      "level": "section"
+    },
+    {
+      "number": "22",
+      "title": "Restriction on showing live coverage of listed events",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/22",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/22",
+      "level": "section"
+    },
+    {
+      "number": "23",
+      "title": "Regulations about coverage of listed events",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/23",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/23",
+      "level": "section"
+    },
+    {
+      "number": "24",
+      "title": "Provision of information",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/24",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/24",
+      "level": "section"
+    },
+    {
+      "number": "25",
+      "title": "Sections 20 to 24: further provision",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/25",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/25",
+      "level": "section"
+    },
+    {
+      "number": null,
+      "title": "Public teletext service",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/1/crossheading/public-teletext-service",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/1/crossheading/public-teletext-service",
+      "level": "crossheading"
+    },
+    {
+      "number": "26",
+      "title": "Public teletext service",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/26",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/26",
+      "level": "section"
+    },
+    {
+      "number": null,
+      "title": "Further amendments",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/1/crossheading/further-amendments",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/1/crossheading/further-amendments",
+      "level": "crossheading"
+    },
+    {
+      "number": "27",
+      "title": "Further amendments relating to public service television",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/27",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/27",
+      "level": "section"
+    },
+    {
+      "number": "Part 2",
+      "title": "Prominence on television selection services",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/2",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/2",
+      "level": "part"
+    },
+    {
+      "number": "28",
+      "title": "Prominence on television selection services",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/28",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/28",
+      "level": "section"
+    },
+    {
+      "number": "Part 3",
+      "title": "Public service broadcasters",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/3",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/3",
+      "level": "part"
+    },
+    {
+      "number": "Chapter 1",
+      "title": "C4C",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/3/chapter/1",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/3/chapter/1",
+      "level": "chapter"
+    },
+    {
+      "number": "29",
+      "title": "Sustainability duty of C4C",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/29",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/29",
+      "level": "section"
+    },
+    {
+      "number": "30",
+      "title": "C4C’s duties in relation to commissioning programmes",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/30",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/30",
+      "level": "section"
+    },
+    {
+      "number": "31",
+      "title": "Involvement of C4C in programme-making",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/31",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/31",
+      "level": "section"
+    },
+    {
+      "number": "Chapter 2",
+      "title": "S4C",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/3/chapter/2",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/3/chapter/2",
+      "level": "chapter"
+    },
+    {
+      "number": "32",
+      "title": "S4C’s powers and public service remit",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/32",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/32",
+      "level": "section"
+    },
+    {
+      "number": "33",
+      "title": "The S4C Board",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/33",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/33",
+      "level": "section"
+    },
+    {
+      "number": "34",
+      "title": "Accounts and audit",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/34",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/34",
+      "level": "section"
+    },
+    {
+      "number": "35",
+      "title": "Amendment of BBC’s obligation to provide Welsh programmes",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/35",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/35",
+      "level": "section"
+    },
+    {
+      "number": "36",
+      "title": "Chapter 2 of Part 3: minor and consequential amendments",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/36",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/36",
+      "level": "section"
+    },
+    {
+      "number": "Part 4",
+      "title": "On-demand programme services",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/4",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/4",
+      "level": "part"
+    },
+    {
+      "number": "37",
+      "title": "Tier 1 services",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/37",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/37",
+      "level": "section"
+    },
+    {
+      "number": "38",
+      "title": "Audience protection reviews",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/38",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/38",
+      "level": "section"
+    },
+    {
+      "number": "39",
+      "title": "S4C: on-demand programme services",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/39",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/39",
+      "level": "section"
+    },
+    {
+      "number": "40",
+      "title": "Other amendments of Part 4A of the 2003 Act",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/40",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/40",
+      "level": "section"
+    },
+    {
+      "number": "Part 5",
+      "title": "Regulation of radio services",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/5",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/5",
+      "level": "part"
+    },
+    {
+      "number": "41",
+      "title": "Licensing of analogue radio services",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/41",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/41",
+      "level": "section"
+    },
+    {
+      "number": "42",
+      "title": "Licensing and local services",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/42",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/42",
+      "level": "section"
+    },
+    {
+      "number": "43",
+      "title": "Character of local services",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/43",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/43",
+      "level": "section"
+    },
+    {
+      "number": "44",
+      "title": "Local news and information",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/44",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/44",
+      "level": "section"
+    },
+    {
+      "number": "45",
+      "title": "Financial assistance for radio",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/45",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/45",
+      "level": "section"
+    },
+    {
+      "number": "46",
+      "title": "Licensing of non-UK digital sound programme services",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/46",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/46",
+      "level": "section"
+    },
+    {
+      "number": "47",
+      "title": "Radio multiplex licences",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/47",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/47",
+      "level": "section"
+    },
+    {
+      "number": "Part 6",
+      "title": "Regulation of radio selection services",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/6",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/6",
+      "level": "part"
+    },
+    {
+      "number": "48",
+      "title": "Regulation of radio selection services",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/48",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/48",
+      "level": "section"
+    },
+    {
+      "number": "Part 7",
+      "title": "Miscellaneous and general",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/7",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/7",
+      "level": "part"
+    },
+    {
+      "number": null,
+      "title": "Amount of penalties etc",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/7/crossheading/amount-of-penalties-etc",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/7/crossheading/amount-of-penalties-etc",
+      "level": "crossheading"
+    },
+    {
+      "number": "49",
+      "title": "Penalties under Parts 3A and 3B of the Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/49",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/49",
+      "level": "section"
+    },
+    {
+      "number": null,
+      "title": "Publishers of news-related material",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/7/crossheading/publishers-of-newsrelated-material",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/7/crossheading/publishers-of-newsrelated-material",
+      "level": "crossheading"
+    },
+    {
+      "number": "50",
+      "title": "Awards of costs",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/50",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/50",
+      "level": "section"
+    },
+    {
+      "number": null,
+      "title": "Amendments related to the UK's withdrawal from the EU",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/7/crossheading/amendments-related-to-the-uks-withdrawal-from-the-eu",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/7/crossheading/amendments-related-to-the-uks-withdrawal-from-the-eu",
+      "level": "crossheading"
+    },
+    {
+      "number": "51",
+      "title": "Amendments of broadcasting legislation: UK’s withdrawal from EU",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/51",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/51",
+      "level": "section"
+    },
+    {
+      "number": null,
+      "title": "General",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/part/7/crossheading/general",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/part/7/crossheading/general",
+      "level": "crossheading"
+    },
+    {
+      "number": "52",
+      "title": "Power to make consequential provision",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/52",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/52",
+      "level": "section"
+    },
+    {
+      "number": "53",
+      "title": "Financial provisions",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/53",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/53",
+      "level": "section"
+    },
+    {
+      "number": "54",
+      "title": "Extent",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/54",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/54",
+      "level": "section"
+    },
+    {
+      "number": "55",
+      "title": "Commencement",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/55",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/55",
+      "level": "section"
+    },
+    {
+      "number": "56",
+      "title": "Short title",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/section/56",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/section/56",
+      "level": "section"
+    },
+    {
+      "number": "Schedule 1",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/1",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/1",
+      "level": "schedule"
+    },
+    {
+      "number": "Part 1",
+      "title": "Quotas: the BBC",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/1/part/1",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/1/part/1",
+      "level": "part"
+    },
+    {
+      "number": "1",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/1/paragraph/1",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/1/paragraph/1",
+      "level": "paragraph"
+    },
+    {
+      "number": "Part 2",
+      "title": "Quotas: S4C",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/1/part/2",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/1/part/2",
+      "level": "part"
+    },
+    {
+      "number": "2",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/1/paragraph/2",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/1/paragraph/2",
+      "level": "paragraph"
+    },
+    {
+      "number": "3",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/1/paragraph/3",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/1/paragraph/3",
+      "level": "paragraph"
+    },
+    {
+      "number": "4",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/1/paragraph/4",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/1/paragraph/4",
+      "level": "paragraph"
+    },
+    {
+      "number": "Schedule 2",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2",
+      "level": "schedule"
+    },
+    {
+      "number": "1",
+      "title": "Broadcasting Act 1990",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/1",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/1",
+      "level": "paragraph"
+    },
+    {
+      "number": "2",
+      "title": "Broadcasting Act 1990",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/2",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/2",
+      "level": "paragraph"
+    },
+    {
+      "number": "3",
+      "title": "Broadcasting Act 1990",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/3",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/3",
+      "level": "paragraph"
+    },
+    {
+      "number": "4",
+      "title": "Broadcasting Act 1990",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/4",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/4",
+      "level": "paragraph"
+    },
+    {
+      "number": "5",
+      "title": "Broadcasting Act 1990",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/5",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/5",
+      "level": "paragraph"
+    },
+    {
+      "number": "6",
+      "title": "Broadcasting Act 1996",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/6",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/6",
+      "level": "paragraph"
+    },
+    {
+      "number": "7",
+      "title": "Broadcasting Act 1996",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/7",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/7",
+      "level": "paragraph"
+    },
+    {
+      "number": "8",
+      "title": "Broadcasting Act 1996",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/8",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/8",
+      "level": "paragraph"
+    },
+    {
+      "number": "9",
+      "title": "Broadcasting Act 1996",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/9",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/9",
+      "level": "paragraph"
+    },
+    {
+      "number": "10",
+      "title": "Broadcasting Act 1996",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/10",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/10",
+      "level": "paragraph"
+    },
+    {
+      "number": "11",
+      "title": "Broadcasting Act 1996",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/11",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/11",
+      "level": "paragraph"
+    },
+    {
+      "number": "12",
+      "title": "Broadcasting Act 1996",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/12",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/12",
+      "level": "paragraph"
+    },
+    {
+      "number": "13",
+      "title": "Broadcasting Act 1996",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/13",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/13",
+      "level": "paragraph"
+    },
+    {
+      "number": "14",
+      "title": "Broadcasting Act 1996",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/14",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/14",
+      "level": "paragraph"
+    },
+    {
+      "number": "15",
+      "title": "Broadcasting Act 1996",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/15",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/15",
+      "level": "paragraph"
+    },
+    {
+      "number": "16",
+      "title": "Broadcasting Act 1996",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/16",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/16",
+      "level": "paragraph"
+    },
+    {
+      "number": "17",
+      "title": "Broadcasting Act 1996",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/17",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/17",
+      "level": "paragraph"
+    },
+    {
+      "number": "18",
+      "title": "Broadcasting Act 1996",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/18",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/18",
+      "level": "paragraph"
+    },
+    {
+      "number": "19",
+      "title": "Broadcasting Act 1996",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/19",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/19",
+      "level": "paragraph"
+    },
+    {
+      "number": "20",
+      "title": "Broadcasting Act 1996",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/20",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/20",
+      "level": "paragraph"
+    },
+    {
+      "number": "21",
+      "title": "Tobacco Advertising and Promotion Act 2002",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/21",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/21",
+      "level": "paragraph"
+    },
+    {
+      "number": "22",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/22",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/22",
+      "level": "paragraph"
+    },
+    {
+      "number": "23",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/23",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/23",
+      "level": "paragraph"
+    },
+    {
+      "number": "24",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/24",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/24",
+      "level": "paragraph"
+    },
+    {
+      "number": "25",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/25",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/25",
+      "level": "paragraph"
+    },
+    {
+      "number": "26",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/26",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/26",
+      "level": "paragraph"
+    },
+    {
+      "number": "27",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/27",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/27",
+      "level": "paragraph"
+    },
+    {
+      "number": "28",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/28",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/28",
+      "level": "paragraph"
+    },
+    {
+      "number": "29",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/29",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/29",
+      "level": "paragraph"
+    },
+    {
+      "number": "30",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/30",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/30",
+      "level": "paragraph"
+    },
+    {
+      "number": "31",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/31",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/31",
+      "level": "paragraph"
+    },
+    {
+      "number": "32",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/32",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/32",
+      "level": "paragraph"
+    },
+    {
+      "number": "33",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/33",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/33",
+      "level": "paragraph"
+    },
+    {
+      "number": "34",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/34",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/34",
+      "level": "paragraph"
+    },
+    {
+      "number": "35",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/35",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/35",
+      "level": "paragraph"
+    },
+    {
+      "number": "36",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/36",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/36",
+      "level": "paragraph"
+    },
+    {
+      "number": "37",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/37",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/37",
+      "level": "paragraph"
+    },
+    {
+      "number": "38",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/38",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/38",
+      "level": "paragraph"
+    },
+    {
+      "number": "39",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/39",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/39",
+      "level": "paragraph"
+    },
+    {
+      "number": "40",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/40",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/40",
+      "level": "paragraph"
+    },
+    {
+      "number": "41",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/41",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/41",
+      "level": "paragraph"
+    },
+    {
+      "number": "42",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/42",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/42",
+      "level": "paragraph"
+    },
+    {
+      "number": "43",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/43",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/43",
+      "level": "paragraph"
+    },
+    {
+      "number": "44",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/44",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/44",
+      "level": "paragraph"
+    },
+    {
+      "number": "45",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/45",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/45",
+      "level": "paragraph"
+    },
+    {
+      "number": "46",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/46",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/46",
+      "level": "paragraph"
+    },
+    {
+      "number": "47",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/47",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/47",
+      "level": "paragraph"
+    },
+    {
+      "number": "48",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/48",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/48",
+      "level": "paragraph"
+    },
+    {
+      "number": "49",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/49",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/49",
+      "level": "paragraph"
+    },
+    {
+      "number": "50",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/50",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/50",
+      "level": "paragraph"
+    },
+    {
+      "number": "51",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/51",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/51",
+      "level": "paragraph"
+    },
+    {
+      "number": "52",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/52",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/52",
+      "level": "paragraph"
+    },
+    {
+      "number": "53",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/53",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/53",
+      "level": "paragraph"
+    },
+    {
+      "number": "54",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/54",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/54",
+      "level": "paragraph"
+    },
+    {
+      "number": "55",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/55",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/55",
+      "level": "paragraph"
+    },
+    {
+      "number": "56",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/56",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/56",
+      "level": "paragraph"
+    },
+    {
+      "number": "57",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/57",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/57",
+      "level": "paragraph"
+    },
+    {
+      "number": "58",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/58",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/58",
+      "level": "paragraph"
+    },
+    {
+      "number": "59",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/59",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/59",
+      "level": "paragraph"
+    },
+    {
+      "number": "60",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/60",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/60",
+      "level": "paragraph"
+    },
+    {
+      "number": "61",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/61",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/61",
+      "level": "paragraph"
+    },
+    {
+      "number": "62",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/62",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/62",
+      "level": "paragraph"
+    },
+    {
+      "number": "63",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/63",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/63",
+      "level": "paragraph"
+    },
+    {
+      "number": "64",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/64",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/64",
+      "level": "paragraph"
+    },
+    {
+      "number": "65",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/65",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/65",
+      "level": "paragraph"
+    },
+    {
+      "number": "66",
+      "title": "Digital Economy Act 2010",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/2/paragraph/66",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/66",
+      "level": "paragraph"
+    },
+    {
+      "number": "Schedule 3",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/3",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/3",
+      "level": "schedule"
+    },
+    {
+      "number": "1",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/3/paragraph/1",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/3/paragraph/1",
+      "level": "paragraph"
+    },
+    {
+      "number": "2",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/3/paragraph/2",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/3/paragraph/2",
+      "level": "paragraph"
+    },
+    {
+      "number": "3",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/3/paragraph/3",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/3/paragraph/3",
+      "level": "paragraph"
+    },
+    {
+      "number": "4",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/3/paragraph/4",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/3/paragraph/4",
+      "level": "paragraph"
+    },
+    {
+      "number": "Schedule 4",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4",
+      "level": "schedule"
+    },
+    {
+      "number": "1",
+      "title": "Broadcasting Act 1990",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/1",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/1",
+      "level": "paragraph"
+    },
+    {
+      "number": "2",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/2",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/2",
+      "level": "paragraph"
+    },
+    {
+      "number": "3",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/3",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/3",
+      "level": "paragraph"
+    },
+    {
+      "number": "4",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/4",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/4",
+      "level": "paragraph"
+    },
+    {
+      "number": "5",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/5",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/5",
+      "level": "paragraph"
+    },
+    {
+      "number": "6",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/6",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/6",
+      "level": "paragraph"
+    },
+    {
+      "number": "7",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/7",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/7",
+      "level": "paragraph"
+    },
+    {
+      "number": "8",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/8",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/8",
+      "level": "paragraph"
+    },
+    {
+      "number": "9",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/9",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/9",
+      "level": "paragraph"
+    },
+    {
+      "number": "10",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/10",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/10",
+      "level": "paragraph"
+    },
+    {
+      "number": "11",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/11",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/11",
+      "level": "paragraph"
+    },
+    {
+      "number": "12",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/12",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/12",
+      "level": "paragraph"
+    },
+    {
+      "number": "13",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/13",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/13",
+      "level": "paragraph"
+    },
+    {
+      "number": "14",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/14",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/14",
+      "level": "paragraph"
+    },
+    {
+      "number": "15",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/15",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/15",
+      "level": "paragraph"
+    },
+    {
+      "number": "16",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/16",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/16",
+      "level": "paragraph"
+    },
+    {
+      "number": "17",
+      "title": "Broadcasting Act 1996",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/17",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/17",
+      "level": "paragraph"
+    },
+    {
+      "number": "18",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/18",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/18",
+      "level": "paragraph"
+    },
+    {
+      "number": "19",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/19",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/19",
+      "level": "paragraph"
+    },
+    {
+      "number": "20",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/20",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/20",
+      "level": "paragraph"
+    },
+    {
+      "number": "21",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/21",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/21",
+      "level": "paragraph"
+    },
+    {
+      "number": "22",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/22",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/22",
+      "level": "paragraph"
+    },
+    {
+      "number": "23",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/23",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/23",
+      "level": "paragraph"
+    },
+    {
+      "number": "24",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/24",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/24",
+      "level": "paragraph"
+    },
+    {
+      "number": "25",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/25",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/25",
+      "level": "paragraph"
+    },
+    {
+      "number": "26",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/26",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/26",
+      "level": "paragraph"
+    },
+    {
+      "number": "27",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/27",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/27",
+      "level": "paragraph"
+    },
+    {
+      "number": "28",
+      "title": "Tobacco Advertising and Promotion Act 2002",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/28",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/28",
+      "level": "paragraph"
+    },
+    {
+      "number": "29",
+      "title": "Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/29",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/29",
+      "level": "paragraph"
+    },
+    {
+      "number": "30",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/30",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/30",
+      "level": "paragraph"
+    },
+    {
+      "number": "31",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/31",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/31",
+      "level": "paragraph"
+    },
+    {
+      "number": "32",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/32",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/32",
+      "level": "paragraph"
+    },
+    {
+      "number": "33",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/33",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/33",
+      "level": "paragraph"
+    },
+    {
+      "number": "34",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/34",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/34",
+      "level": "paragraph"
+    },
+    {
+      "number": "35",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/35",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/35",
+      "level": "paragraph"
+    },
+    {
+      "number": "36",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/36",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/36",
+      "level": "paragraph"
+    },
+    {
+      "number": "37",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/37",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/37",
+      "level": "paragraph"
+    },
+    {
+      "number": "38",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/38",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/38",
+      "level": "paragraph"
+    },
+    {
+      "number": "39",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/39",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/39",
+      "level": "paragraph"
+    },
+    {
+      "number": "40",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/40",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/40",
+      "level": "paragraph"
+    },
+    {
+      "number": "41",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/41",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/41",
+      "level": "paragraph"
+    },
+    {
+      "number": "42",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/42",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/42",
+      "level": "paragraph"
+    },
+    {
+      "number": "43",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/43",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/43",
+      "level": "paragraph"
+    },
+    {
+      "number": "44",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/44",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/44",
+      "level": "paragraph"
+    },
+    {
+      "number": "45",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/45",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/45",
+      "level": "paragraph"
+    },
+    {
+      "number": "46",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/46",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/46",
+      "level": "paragraph"
+    },
+    {
+      "number": "47",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/47",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/47",
+      "level": "paragraph"
+    },
+    {
+      "number": "48",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/48",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/48",
+      "level": "paragraph"
+    },
+    {
+      "number": "49",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/49",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/49",
+      "level": "paragraph"
+    },
+    {
+      "number": "50",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/50",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/50",
+      "level": "paragraph"
+    },
+    {
+      "number": "51",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/51",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/51",
+      "level": "paragraph"
+    },
+    {
+      "number": "52",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/52",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/52",
+      "level": "paragraph"
+    },
+    {
+      "number": "53",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/53",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/53",
+      "level": "paragraph"
+    },
+    {
+      "number": "54",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/54",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/54",
+      "level": "paragraph"
+    },
+    {
+      "number": "55",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/55",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/55",
+      "level": "paragraph"
+    },
+    {
+      "number": "56",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/56",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/56",
+      "level": "paragraph"
+    },
+    {
+      "number": "57",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/57",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/57",
+      "level": "paragraph"
+    },
+    {
+      "number": "58",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/58",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/58",
+      "level": "paragraph"
+    },
+    {
+      "number": "59",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/59",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/59",
+      "level": "paragraph"
+    },
+    {
+      "number": "60",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/60",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/60",
+      "level": "paragraph"
+    },
+    {
+      "number": "61",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/61",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/61",
+      "level": "paragraph"
+    },
+    {
+      "number": "62",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/62",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/62",
+      "level": "paragraph"
+    },
+    {
+      "number": "63",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/63",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/63",
+      "level": "paragraph"
+    },
+    {
+      "number": "64",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/64",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/64",
+      "level": "paragraph"
+    },
+    {
+      "number": "65",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/65",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/65",
+      "level": "paragraph"
+    },
+    {
+      "number": "66",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/66",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/66",
+      "level": "paragraph"
+    },
+    {
+      "number": "67",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/67",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/67",
+      "level": "paragraph"
+    },
+    {
+      "number": "68",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/68",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/68",
+      "level": "paragraph"
+    },
+    {
+      "number": "69",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/69",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/69",
+      "level": "paragraph"
+    },
+    {
+      "number": "70",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/70",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/70",
+      "level": "paragraph"
+    },
+    {
+      "number": "71",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/71",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/71",
+      "level": "paragraph"
+    },
+    {
+      "number": "72",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/72",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/72",
+      "level": "paragraph"
+    },
+    {
+      "number": "73",
+      "title": "Equality Act 2010",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/4/paragraph/73",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/73",
+      "level": "paragraph"
+    },
+    {
+      "number": "Schedule 5",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/5",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/5",
+      "level": "schedule"
+    },
+    {
+      "number": "Schedule 6",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/6",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/6",
+      "level": "schedule"
+    },
+    {
+      "number": "1",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/6/paragraph/1",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/1",
+      "level": "paragraph"
+    },
+    {
+      "number": "2",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/6/paragraph/2",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/2",
+      "level": "paragraph"
+    },
+    {
+      "number": "3",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/6/paragraph/3",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/3",
+      "level": "paragraph"
+    },
+    {
+      "number": "4",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/6/paragraph/4",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/4",
+      "level": "paragraph"
+    },
+    {
+      "number": "5",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/6/paragraph/5",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/5",
+      "level": "paragraph"
+    },
+    {
+      "number": "6",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/6/paragraph/6",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/6",
+      "level": "paragraph"
+    },
+    {
+      "number": "7",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/6/paragraph/7",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/7",
+      "level": "paragraph"
+    },
+    {
+      "number": "8",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/6/paragraph/8",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/8",
+      "level": "paragraph"
+    },
+    {
+      "number": "9",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/6/paragraph/9",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/9",
+      "level": "paragraph"
+    },
+    {
+      "number": "10",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/6/paragraph/10",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/10",
+      "level": "paragraph"
+    },
+    {
+      "number": "11",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/6/paragraph/11",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/11",
+      "level": "paragraph"
+    },
+    {
+      "number": "12",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/6/paragraph/12",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/12",
+      "level": "paragraph"
+    },
+    {
+      "number": "Schedule 7",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/7",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/7",
+      "level": "schedule"
+    },
+    {
+      "number": "1",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/7/paragraph/1",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/7/paragraph/1",
+      "level": "paragraph"
+    },
+    {
+      "number": "2",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/7/paragraph/2",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/7/paragraph/2",
+      "level": "paragraph"
+    },
+    {
+      "number": "3",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/7/paragraph/3",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/7/paragraph/3",
+      "level": "paragraph"
+    },
+    {
+      "number": "4",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/7/paragraph/4",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/7/paragraph/4",
+      "level": "paragraph"
+    },
+    {
+      "number": "5",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/7/paragraph/5",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/7/paragraph/5",
+      "level": "paragraph"
+    },
+    {
+      "number": "Schedule 8",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/8",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/8",
+      "level": "schedule"
+    },
+    {
+      "number": "1",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/8/paragraph/1",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/8/paragraph/1",
+      "level": "paragraph"
+    },
+    {
+      "number": "2",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/8/paragraph/2",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/8/paragraph/2",
+      "level": "paragraph"
+    },
+    {
+      "number": "3",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/8/paragraph/3",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/8/paragraph/3",
+      "level": "paragraph"
+    },
+    {
+      "number": "4",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/8/paragraph/4",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/8/paragraph/4",
+      "level": "paragraph"
+    },
+    {
+      "number": "5",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/8/paragraph/5",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/8/paragraph/5",
+      "level": "paragraph"
+    },
+    {
+      "number": "6",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/8/paragraph/6",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/8/paragraph/6",
+      "level": "paragraph"
+    },
+    {
+      "number": "7",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/8/paragraph/7",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/8/paragraph/7",
+      "level": "paragraph"
+    },
+    {
+      "number": "8",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/8/paragraph/8",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/8/paragraph/8",
+      "level": "paragraph"
+    },
+    {
+      "number": "9",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/8/paragraph/9",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/8/paragraph/9",
+      "level": "paragraph"
+    },
+    {
+      "number": "10",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/8/paragraph/10",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/8/paragraph/10",
+      "level": "paragraph"
+    },
+    {
+      "number": "11",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/8/paragraph/11",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/8/paragraph/11",
+      "level": "paragraph"
+    },
+    {
+      "number": "12",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/8/paragraph/12",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/8/paragraph/12",
+      "level": "paragraph"
+    },
+    {
+      "number": "Schedule 9",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/9",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/9",
+      "level": "schedule"
+    },
+    {
+      "number": "1",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/9/paragraph/1",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/9/paragraph/1",
+      "level": "paragraph"
+    },
+    {
+      "number": "2",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/9/paragraph/2",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/9/paragraph/2",
+      "level": "paragraph"
+    },
+    {
+      "number": "3",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/9/paragraph/3",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/9/paragraph/3",
+      "level": "paragraph"
+    },
+    {
+      "number": "4",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/9/paragraph/4",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/9/paragraph/4",
+      "level": "paragraph"
+    },
+    {
+      "number": "Schedule 10",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/10",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/10",
+      "level": "schedule"
+    },
+    {
+      "number": "Schedule 11",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/11",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/11",
+      "level": "schedule"
+    },
+    {
+      "number": "Schedule 12",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/12",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/12",
+      "level": "schedule"
+    },
+    {
+      "number": "Part 1",
+      "title": "Amendments of the Broadcasting Acts",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/12/part/1",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/12/part/1",
+      "level": "part"
+    },
+    {
+      "number": "1",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/12/paragraph/1",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/12/paragraph/1",
+      "level": "paragraph"
+    },
+    {
+      "number": "2",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/12/paragraph/2",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/12/paragraph/2",
+      "level": "paragraph"
+    },
+    {
+      "number": "Part 2",
+      "title": "Amendments of the Communications Act 2003",
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/12/part/2",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/12/part/2",
+      "level": "part"
+    },
+    {
+      "number": "3",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/12/paragraph/3",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/12/paragraph/3",
+      "level": "paragraph"
+    },
+    {
+      "number": "4",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/12/paragraph/4",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/12/paragraph/4",
+      "level": "paragraph"
+    },
+    {
+      "number": "5",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/12/paragraph/5",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/12/paragraph/5",
+      "level": "paragraph"
+    },
+    {
+      "number": "6",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/12/paragraph/6",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/12/paragraph/6",
+      "level": "paragraph"
+    },
+    {
+      "number": "7",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/12/paragraph/7",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/12/paragraph/7",
+      "level": "paragraph"
+    },
+    {
+      "number": "8",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/12/paragraph/8",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/12/paragraph/8",
+      "level": "paragraph"
+    },
+    {
+      "number": "9",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/12/paragraph/9",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/12/paragraph/9",
+      "level": "paragraph"
+    },
+    {
+      "number": "10",
+      "title": null,
+      "id": "http://www.legislation.gov.uk/id/ukpga/2024/15/schedule/12/paragraph/10",
+      "document_uri": "http://www.legislation.gov.uk/ukpga/2024/15/schedule/12/paragraph/10",
+      "level": "paragraph"
+    }
+  ],
+  "schedule_count": 12,
+  "section_count": 56,
+  "paragraph_count": 190,
+  "part_count": 11,
+  "chapter_count": 2,
+  "number_of_provisions": 382,
+  "statistics": {
+    "TotalParagraphs": 385,
+    "BodyParagraphs": 154,
+    "ScheduleParagraphs": 231,
+    "AttachmentParagraphs": 0,
+    "TotalImages": 0
+  },
+  "effects": [
+    {
+      "effect_id": "key-c34cfac13dcdced9201831eb843141a0",
+      "uri": "http://www.legislation.gov.uk/id/effect/key-c34cfac13dcdced9201831eb843141a0",
+      "type": "coming into force",
+      "affected_uri": "http://www.legislation.gov.uk/id/ukpga/2024/15",
+      "affecting_uri": "http://www.legislation.gov.uk/id/uksi/2024/858",
+      "affected_provision": "Sch. 2 para. 12(2)",
+      "affecting_provision": "reg. 4(a)",
+      "in_force": "Applied=false; Prospective=true",
+      "in_force_notes": null,
+      "note": null,
+      "comments": "comes into force on the date on which section 299(1) of the 2003 Act comes into force; entered into conditional commencement spreadsheet",
+      "modified": "2024-08-22T12:07:58Z",
+      "applied": false,
+      "required_amendments": [],
+      "attributes": {
+        "AffectingProvisions": "reg. 4(a)",
+        "AffectedProvisions": "Sch. 2 para. 12(2)",
+        "Type": "coming into force",
+        "AffectedYear": "2024",
+        "AffectedClass": "UnitedKingdomPublicGeneralAct",
+        "URI": "http://www.legislation.gov.uk/id/effect/key-c34cfac13dcdced9201831eb843141a0",
+        "Modified": "2024-08-22T12:07:58Z",
+        "EffectId": "key-c34cfac13dcdced9201831eb843141a0",
+        "AffectingYear": "2024",
+        "AffectedExtent": "E+W+S+N.I.",
+        "AffectingClass": "UnitedKingdomStatutoryInstrument",
+        "Comments": "comes into force on the date on which section 299(1) of the 2003 Act comes into force; entered into conditional commencement spreadsheet",
+        "AffectedURI": "http://www.legislation.gov.uk/id/ukpga/2024/15",
+        "Row": "201",
+        "RequiresApplied": "true",
+        "AffectingNumber": "858",
+        "AffectedNumber": "15",
+        "AffectingURI": "http://www.legislation.gov.uk/id/uksi/2024/858"
+      }
+    },
+    {
+      "effect_id": "key-c4d2d06199e6d9c022bf0b6b04dfb80a",
+      "uri": "http://www.legislation.gov.uk/id/effect/key-c4d2d06199e6d9c022bf0b6b04dfb80a",
+      "type": "coming into force",
+      "affected_uri": "http://www.legislation.gov.uk/id/ukpga/2024/15",
+      "affecting_uri": "http://www.legislation.gov.uk/id/uksi/2024/858",
+      "affected_provision": "Sch. 4 para. 23(b)",
+      "affecting_provision": "reg. 4(a)",
+      "in_force": "Applied=false; Prospective=true",
+      "in_force_notes": null,
+      "note": null,
+      "comments": "comes into force on the date on which section 299(1) of the 2003 Act comes into force; entered into conditional commencement spreadsheet",
+      "modified": "2024-08-22T12:07:58Z",
+      "applied": false,
+      "required_amendments": [],
+      "attributes": {
+        "AffectingNumber": "858",
+        "AffectingProvisions": "reg. 4(a)",
+        "AffectedYear": "2024",
+        "EffectId": "key-c4d2d06199e6d9c022bf0b6b04dfb80a",
+        "Row": "202",
+        "Modified": "2024-08-22T12:07:58Z",
+        "AffectingURI": "http://www.legislation.gov.uk/id/uksi/2024/858",
+        "AffectedNumber": "15",
+        "AffectingYear": "2024",
+        "Comments": "comes into force on the date on which section 299(1) of the 2003 Act comes into force; entered into conditional commencement spreadsheet",
+        "AffectedExtent": "E+W+S+N.I.",
+        "AffectedURI": "http://www.legislation.gov.uk/id/ukpga/2024/15",
+        "RequiresApplied": "true",
+        "URI": "http://www.legislation.gov.uk/id/effect/key-c4d2d06199e6d9c022bf0b6b04dfb80a",
+        "AffectedProvisions": "Sch. 4 para. 23(b)",
+        "Type": "coming into force",
+        "AffectedClass": "UnitedKingdomPublicGeneralAct",
+        "AffectingClass": "UnitedKingdomStatutoryInstrument"
+      }
+    },
+    {
+      "effect_id": "key-01834ab9c5ffefab9e8c544fb7793e38",
+      "uri": "http://www.legislation.gov.uk/id/effect/key-3d4e794291376ffa9f7cacc18f15b9cf",
+      "type": "coming into force",
+      "affected_uri": "http://www.legislation.gov.uk/id/ukpga/2024/15",
+      "affecting_uri": "http://www.legislation.gov.uk/id/uksi/2024/858",
+      "affected_provision": "Sch. 4 para. 53",
+      "affecting_provision": "reg. 2(1)(x) 4(b)",
+      "in_force": "Applied=false; Prospective=true",
+      "in_force_notes": null,
+      "note": "By S.I. 2024/858, reg. 2(1)(x), Sch. 4 para. 53 comes wholly into force on 23.8.2024. It is believed that this is a drafting error and that para. 53 comes into force as provided for in reg. 4(b), so that it takes effect when the provision it amends comes into force",
+      "comments": "comes into force on the date on which paragraph 5 of Schedule 12 to the 2003 Act comes into force; entered into conditional commencement spreadsheet",
+      "modified": "2024-08-22T12:07:58Z",
+      "applied": false,
+      "required_amendments": [],
+      "attributes": {
+        "EffectId": "key-01834ab9c5ffefab9e8c544fb7793e38",
+        "Type": "coming into force",
+        "AffectingClass": "UnitedKingdomStatutoryInstrument",
+        "AffectedProvisions": "Sch. 4 para. 53",
+        "AffectingNumber": "858",
+        "AffectingYear": "2024",
+        "Row": "203",
+        "AffectedClass": "UnitedKingdomPublicGeneralAct",
+        "AffectedURI": "http://www.legislation.gov.uk/id/ukpga/2024/15",
+        "Comments": "comes into force on the date on which paragraph 5 of Schedule 12 to the 2003 Act comes into force; entered into conditional commencement spreadsheet",
+        "AffectingURI": "http://www.legislation.gov.uk/id/uksi/2024/858",
+        "Notes": "By S.I. 2024/858, reg. 2(1)(x), Sch. 4 para. 53 comes wholly into force on 23.8.2024. It is believed that this is a drafting error and that para. 53 comes into force as provided for in reg. 4(b), so that it takes effect when the provision it amends comes into force",
+        "URI": "http://www.legislation.gov.uk/id/effect/key-3d4e794291376ffa9f7cacc18f15b9cf",
+        "AffectingProvisions": "reg. 2(1)(x) 4(b)",
+        "AffectedYear": "2024",
+        "Modified": "2024-08-22T12:07:58Z",
+        "AffectedExtent": "E+W+S+N.I.",
+        "RequiresApplied": "true",
+        "AffectedNumber": "15"
+      }
+    },
+    {
+      "effect_id": "key-a0c84a44486fc618a553f5bec6a63660",
+      "uri": "http://www.legislation.gov.uk/id/effect/key-e4249b2c67f3b6a26e9b20407d1d4199",
+      "type": "coming into force",
+      "affected_uri": "http://www.legislation.gov.uk/id/ukpga/2024/15",
+      "affecting_uri": "http://www.legislation.gov.uk/id/uksi/2024/858",
+      "affected_provision": "Sch. 4 para. 54",
+      "affecting_provision": "reg. 2(1)(x) 4(c)",
+      "in_force": "Applied=false; Prospective=true",
+      "in_force_notes": null,
+      "note": "By S.I. 2024/858, reg. 2(1)(x), Sch. 4 para. 54 comes wholly into force on 23.8.2024. It is believed that this is a drafting error and that para. 54 comes into force as provided for in reg. 4(c), so that it takes effect when the provision it amends comes into force",
+      "comments": "comes into force on the date on which paragraph 6 of Schedule 12 to the 2003 Act comes into force; entered into conditional commencement spreadsheet",
+      "modified": "2024-08-22T12:07:58Z",
+      "applied": false,
+      "required_amendments": [],
+      "attributes": {
+        "RequiresApplied": "true",
+        "Notes": "By S.I. 2024/858, reg. 2(1)(x), Sch. 4 para. 54 comes wholly into force on 23.8.2024. It is believed that this is a drafting error and that para. 54 comes into force as provided for in reg. 4(c), so that it takes effect when the provision it amends comes into force",
+        "Modified": "2024-08-22T12:07:58Z",
+        "AffectingNumber": "858",
+        "AffectingClass": "UnitedKingdomStatutoryInstrument",
+        "URI": "http://www.legislation.gov.uk/id/effect/key-e4249b2c67f3b6a26e9b20407d1d4199",
+        "EffectId": "key-a0c84a44486fc618a553f5bec6a63660",
+        "Row": "204",
+        "AffectedExtent": "E+W+S+N.I.",
+        "Comments": "comes into force on the date on which paragraph 6 of Schedule 12 to the 2003 Act comes into force; entered into conditional commencement spreadsheet",
+        "AffectedYear": "2024",
+        "Type": "coming into force",
+        "AffectedURI": "http://www.legislation.gov.uk/id/ukpga/2024/15",
+        "AffectingURI": "http://www.legislation.gov.uk/id/uksi/2024/858",
+        "AffectingProvisions": "reg. 2(1)(x) 4(c)",
+        "AffectedNumber": "15",
+        "AffectedClass": "UnitedKingdomPublicGeneralAct",
+        "AffectingYear": "2024",
+        "AffectedProvisions": "Sch. 4 para. 54"
+      }
+    }
+  ],
+  "unapplied_effects_count": 4,
+  "applied_effects_count": 0,
+  "powers_conferred": [],
+  "commentary": [
+    {
+      "id": "key-3b10590f22a330a582fe647d039f636a",
+      "type": "I",
+      "text": "S. 1  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-243fb7c38cacb4754a43f456a5eb0968",
+      "type": "I",
+      "text": "S. 2  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-de7345a7981b66f4bcf8a1c6e092b401",
+      "type": "I",
+      "text": "S. 3  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-3b648c51219eddf2d3c20defb23fc150",
+      "type": "I",
+      "text": "S. 4  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-650174d83f1d1f5f76aafcee574b39ba",
+      "type": "I",
+      "text": "S. 5  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-bfcf9991b0ac3329b8fb335779a4c932",
+      "type": "I",
+      "text": "S. 6  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-1793ae76f8153c0f39350a2bca40a4e0",
+      "type": "I",
+      "text": "S. 7  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-871b771c166a412e30d25107ebd37400",
+      "type": "I",
+      "text": "S. 8  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-8b57e5bc099fa4181a92e41c604a4aa9",
+      "type": "I",
+      "text": "S. 9  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-29a4c69fcc189e03d7187a91d8be66a0",
+      "type": "I",
+      "text": "S. 10  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-0ec96f12ac8f434da3e8109dc473f3f1",
+      "type": "I",
+      "text": "S. 11  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-374177aaf696dc7401e84730b092085b",
+      "type": "I",
+      "text": "S. 12  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-857e05e44db69e72836dab66079e4670",
+      "type": "I",
+      "text": "S. 13  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-c288587a79f2d712dc3535125969d01a",
+      "type": "I",
+      "text": "S. 14  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-b2421ae5b7e79413d8c0a5ec5e4bce0d",
+      "type": "I",
+      "text": "S. 15  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-d72060c51841d85a03f08874542eee60",
+      "type": "I",
+      "text": "S. 16  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-188b0e7ddeedb7e58ea145efe6effb3c",
+      "type": "I",
+      "text": "S. 17  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-7d3e2043dd7a50900a758ea0d9de46c4",
+      "type": "I",
+      "text": "S. 18  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-0a309553e91ea3c3dca51c15afab52f0",
+      "type": "I",
+      "text": "S. 19  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-910601ac6f2eaff9f94efca228503a9f",
+      "type": "I",
+      "text": "S. 20  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-56ac883587b988a77bb03f471ebcb10b",
+      "type": "I",
+      "text": "S. 21  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-5f9dc61141a27d6c3ec113567f443fa5",
+      "type": "I",
+      "text": "S. 22  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-5db77c6dcd07aaebef27aebb69e5eba9",
+      "type": "I",
+      "text": "S. 23  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-e14042f286eb6902f17ca9aa9b95774a",
+      "type": "I",
+      "text": "S. 24  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-00908acd6af9ac79f537f0d555d1bc69",
+      "type": "I",
+      "text": "S. 25  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-00effd8db23193ec38b2736f0c81fdab",
+      "type": "I",
+      "text": "S. 26  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-7abcc205f8bb7d58bb337b807f6fdf5d",
+      "type": "I",
+      "text": "S. 27  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-f076850bd9c0fd9adc0cbc9e9bf5e69f",
+      "type": "I",
+      "text": "S. 28  in force at Royal Assent for specified purposes, see s. 55(1)(a)"
+    },
+    {
+      "id": "key-6f96643f25167d36581fb6bf37eee4f3",
+      "type": "I",
+      "text": "S. 29  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-9aad875b77544030ba775d7aac19d433",
+      "type": "I",
+      "text": "S. 30  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-448c8ea5cc27c24810af27733d6a756e",
+      "type": "I",
+      "text": "S. 31  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-5454520ad4ede3f9be70ba29f5ddf67a",
+      "type": "I",
+      "text": "S. 32  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-84da81b21bd8bfd78af2048168e86b01",
+      "type": "I",
+      "text": "S. 33  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-e862b81c7765dfd2d48d79a432243f71",
+      "type": "I",
+      "text": "S. 34  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-50b600a18f27a8b3f39cd6b45c6fa268",
+      "type": "I",
+      "text": "S. 35  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-3ff7852a3d92a28807e965b2982b2df4",
+      "type": "I",
+      "text": "S. 36  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-7f7c5891fc20747c52a0eb8e35fe5612",
+      "type": "I",
+      "text": "S. 37  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-ea9d5c29ba17cb1664bb6d878bc4caf1",
+      "type": "I",
+      "text": "S. 38  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-572c13a4ec2c4319fee1565dc81c33d1",
+      "type": "I",
+      "text": "S. 39  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-80c5ba973e42d45b4bb0f9fef8c75b4a",
+      "type": "I",
+      "text": "S. 40  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-e02de915bd0e234a85055c0d45702dd7",
+      "type": "I",
+      "text": "S. 41  not in force at Royal Assent, see s. 55(3)(e)"
+    },
+    {
+      "id": "key-057b459346ef702fbaa64bcd5a89f314",
+      "type": "I",
+      "text": "S. 42  not in force at Royal Assent, see s. 55(3)(e)"
+    },
+    {
+      "id": "key-be56ba7e8b87514d7ab1066c54b301d6",
+      "type": "I",
+      "text": "S. 43  not in force at Royal Assent, see s. 55(3)(e)"
+    },
+    {
+      "id": "key-1674dd133a378f707ffadc5ea6769c6c",
+      "type": "I",
+      "text": "S. 44  not in force at Royal Assent, see s. 55(3)(e)"
+    },
+    {
+      "id": "key-e61954537e4e4f7ea02a30ca0802ef58",
+      "type": "I",
+      "text": "S. 45  not in force at Royal Assent, see s. 55(3)(e)"
+    },
+    {
+      "id": "key-5c22aad7caffabaacf9f0b5beb3e1e0b",
+      "type": "I",
+      "text": "S. 46  not in force at Royal Assent, see s. 55(3)(e)"
+    },
+    {
+      "id": "key-1a71ab33814e53b7f714ce3ea0648578",
+      "type": "I",
+      "text": "S. 47  not in force at Royal Assent, see s. 55(3)(e)"
+    },
+    {
+      "id": "key-5a14098b0fc68edb8620a3f4c5ece479",
+      "type": "I",
+      "text": "S. 48  not in force at Royal Assent, see s. 55(3)(f)"
+    },
+    {
+      "id": "key-337bd1d7d9bd709116e8840ba867c76b",
+      "type": "I",
+      "text": "S. 49  not in force at Royal Assent, see s. 55(3)(g)"
+    },
+    {
+      "id": "key-f1c17a0eed5a0caa596a6fd1eddd10e4",
+      "type": "I",
+      "text": "S. 51  not in force at Royal Assent, see s. 55(3)(h)"
+    },
+    {
+      "id": "key-f780e26d47f2bc5e8c9cf677e31154c4",
+      "type": "I",
+      "text": "S. 52  in force at Royal Assent, see s. 55(1)(b)"
+    },
+    {
+      "id": "key-d2ed90e3e4e4dbe3e5adc045255eb788",
+      "type": "I",
+      "text": "S. 53  in force at Royal Assent, see s. 55(1)(b)"
+    },
+    {
+      "id": "key-bbaef41223ab8eb150efd6a2f3ebc637",
+      "type": "I",
+      "text": "S. 54  in force at Royal Assent, see s. 55(1)(b)"
+    },
+    {
+      "id": "key-04b9438229880c484879c9d94baaf793",
+      "type": "I",
+      "text": "S. 55  in force at Royal Assent, see s. 55(1)(b)"
+    },
+    {
+      "id": "key-951978b55ee9b62a32c98ecd4aea769b",
+      "type": "I",
+      "text": "S. 56  in force at Royal Assent, see s. 55(1)(b)"
+    },
+    {
+      "id": "key-b5c2f182331a1c3542f4b558ce3e33c8",
+      "type": "I",
+      "text": "Sch. 1 para. 1  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-fc81b083f025fef892165398dbd25ca8",
+      "type": "I",
+      "text": "Sch. 1 para. 2  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-5e72829d4774e8f4a9f8a2dafec3199a",
+      "type": "I",
+      "text": "Sch. 1 para. 3  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-c51d8030d15c9ab536ccbc9fe3eb04c2",
+      "type": "I",
+      "text": "Sch. 1 para. 4  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-25288798b7d781564dbba3068a25cf4d",
+      "type": "I",
+      "text": "Sch. 2 para. 1  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-8eacfd5d6932f74c7a2e270cd1b4acae",
+      "type": "I",
+      "text": "Sch. 2 para. 2  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-66098b7c70c3fb3f88f995445c06c15b",
+      "type": "I",
+      "text": "Sch. 2 para. 3  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-d05c9240914f3af83873dadef5d0db0b",
+      "type": "I",
+      "text": "Sch. 2 para. 4  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-bb143376a1fdc30a0e84a25ae6758c44",
+      "type": "I",
+      "text": "Sch. 2 para. 5  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-8ee76e21c2c7f86e64cce5e213827e35",
+      "type": "I",
+      "text": "Sch. 2 para. 6  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-2b41187d0d1954ec72706dc44451f949",
+      "type": "I",
+      "text": "Sch. 2 para. 7  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-50c1c0a900376ac0bde28b9f0bd6969a",
+      "type": "I",
+      "text": "Sch. 2 para. 8  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-e43a1f78a627783c8c7af967701c9891",
+      "type": "I",
+      "text": "Sch. 2 para. 9  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-e6bee5e4e2eaf0f9eac8b34662d9f954",
+      "type": "I",
+      "text": "Sch. 2 para. 10  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-0cc357871073d88504e7face4010c553",
+      "type": "I",
+      "text": "Sch. 2 para. 11  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-3cda12453e3df500a2cf2dab5f491e7e",
+      "type": "I",
+      "text": "Sch. 2 para. 12  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-8d8ce8e49035fba9b3861d41bea8587a",
+      "type": "I",
+      "text": "Sch. 2 para. 13  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-559acaf3389244b71b1d2e4b5596522e",
+      "type": "I",
+      "text": "Sch. 2 para. 14  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-5f6175b187a6b619d832dc5fcec5a2fa",
+      "type": "I",
+      "text": "Sch. 2 para. 15  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-f74ea97c450f161cdfafc97499d03308",
+      "type": "I",
+      "text": "Sch. 2 para. 16  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-61342f44472b2768b530b5e4eaa6d1d6",
+      "type": "I",
+      "text": "Sch. 2 para. 17  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-96085079fa19dca1536833a396977ee1",
+      "type": "I",
+      "text": "Sch. 2 para. 18  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-280a4066b9f0e970b0145cf17d2324b7",
+      "type": "I",
+      "text": "Sch. 2 para. 19  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-850525a3497a299bf4e96396694a0f05",
+      "type": "I",
+      "text": "Sch. 2 para. 20  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-b9e074469b3a59f36de48a2055dc1e9e",
+      "type": "I",
+      "text": "Sch. 2 para. 21  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-22223c1da14293e96682027fed145f80",
+      "type": "I",
+      "text": "Sch. 2 para. 22  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-a13f693b605bcb49b960abf5556fca32",
+      "type": "I",
+      "text": "Sch. 2 para. 23  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-744387f3e1b716c0b79c412988b26abf",
+      "type": "I",
+      "text": "Sch. 2 para. 24  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-5ddd7f357794e6729f1b7e1946d74db2",
+      "type": "I",
+      "text": "Sch. 2 para. 25  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-bf68222696ed6ab133edf95f9065a7e4",
+      "type": "I",
+      "text": "Sch. 2 para. 26  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-93c10461a7b4113a52fedd0ef4158025",
+      "type": "I",
+      "text": "Sch. 2 para. 27  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-bfc5a5b515b87603a2fcaf09a80ad861",
+      "type": "I",
+      "text": "Sch. 2 para. 28  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-5208c727a4df54f2b0af5fde72ebcfd3",
+      "type": "I",
+      "text": "Sch. 2 para. 29  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-e5d16701468bd3e6b58f498612896ba8",
+      "type": "I",
+      "text": "Sch. 2 para. 30  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-f578e05a82453a6bfcd7c7586947a760",
+      "type": "I",
+      "text": "Sch. 2 para. 31  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-fa9948a7a025c4e29500d246ffb138bf",
+      "type": "I",
+      "text": "Sch. 2 para. 32  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-f06aa4f7ebae4461513e1d2447faee09",
+      "type": "I",
+      "text": "Sch. 2 para. 33  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-666322a150749e7f8437103a44f13e03",
+      "type": "I",
+      "text": "Sch. 2 para. 34  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-b15c908dc09bce937681b1edb3804453",
+      "type": "I",
+      "text": "Sch. 2 para. 35  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-822a49cc0398af6fa900c11ba1989eb2",
+      "type": "I",
+      "text": "Sch. 2 para. 36  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-9ca3c749b160c202089730c152f57b44",
+      "type": "I",
+      "text": "Sch. 2 para. 37  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-c7d954388ef67b6549ca116b0effd623",
+      "type": "I",
+      "text": "Sch. 2 para. 38  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-8bc44ca1e98f13acf307e915ae9bb5b1",
+      "type": "I",
+      "text": "Sch. 2 para. 39  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-3e24ea47b59b41a5387f34eb12f46c91",
+      "type": "I",
+      "text": "Sch. 2 para. 40  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-7867dc65c21fd57c9ac2e0ae6c93eb1e",
+      "type": "I",
+      "text": "Sch. 2 para. 41  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-44b1f24f69212ecfa1b207e08033de72",
+      "type": "I",
+      "text": "Sch. 2 para. 42  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-e81977eb0836ee1f0b8d91a773b551a8",
+      "type": "I",
+      "text": "Sch. 2 para. 43  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-809bcd5d20c100ae01c41d07e7bf9da4",
+      "type": "I",
+      "text": "Sch. 2 para. 44  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-019bae18f0b726a218868ef1b2bdf5bf",
+      "type": "I",
+      "text": "Sch. 2 para. 45  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-f66b2cbf9e57a3c64c75dc16076ac08a",
+      "type": "I",
+      "text": "Sch. 2 para. 46  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-fef958d59ffbb935c240f0c115641cf7",
+      "type": "I",
+      "text": "Sch. 2 para. 47  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-290c6ed85c02c41f0975fd171a7dc4ef",
+      "type": "I",
+      "text": "Sch. 2 para. 48  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-28978a235bfddc4fecdf0e6da82190f0",
+      "type": "I",
+      "text": "Sch. 2 para. 49  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-a721ef13bad47bdc3e32e14320eebada",
+      "type": "I",
+      "text": "Sch. 2 para. 50  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-f89290b66215ff83ea98f761adb37d2f",
+      "type": "I",
+      "text": "Sch. 2 para. 51  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-7ef02ce1274f1291f9209fbeee47cb64",
+      "type": "I",
+      "text": "Sch. 2 para. 52  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-712d918b5fa8e7c400f3321369356341",
+      "type": "I",
+      "text": "Sch. 2 para. 53  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-41f2d5521cabeedf8d48ba52ae5ce792",
+      "type": "I",
+      "text": "Sch. 2 para. 54  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-c9355e3c6d4a4eef239b29a7c6f88b92",
+      "type": "I",
+      "text": "Sch. 2 para. 55  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-7cd6863f0c7f295d34c1223ec19c79ba",
+      "type": "I",
+      "text": "Sch. 2 para. 56  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-791b707da34ef1146ef58df50881068d",
+      "type": "I",
+      "text": "Sch. 2 para. 57  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-22c2784630b0becf4092fd408fec7ea1",
+      "type": "I",
+      "text": "Sch. 2 para. 58  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-697e624d1ff372dcd4e9f8390161b12a",
+      "type": "I",
+      "text": "Sch. 2 para. 59  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-e6a7e9d07675b1996f5a24c3fef46b09",
+      "type": "I",
+      "text": "Sch. 2 para. 60  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-619f62961af84688a55ba1f5250781fa",
+      "type": "I",
+      "text": "Sch. 2 para. 61  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-fc66b8e0c77ea7250de7ae257709ff54",
+      "type": "I",
+      "text": "Sch. 2 para. 62  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-31eaf02fac25018c07ad16229378cfae",
+      "type": "I",
+      "text": "Sch. 2 para. 63  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-c3ef9bd67f3813fcbc15d41142044dcf",
+      "type": "I",
+      "text": "Sch. 2 para. 64  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-763a80b8e02d4cd75f214bfd5da29305",
+      "type": "I",
+      "text": "Sch. 2 para. 65  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-33628b2e7e8316b685d902688cdb6e31",
+      "type": "I",
+      "text": "Sch. 2 para. 66  not in force at Royal Assent, see s. 55(3)(a)"
+    },
+    {
+      "id": "key-2bf08ccd73a8c1601bddccbd882a235e",
+      "type": "I",
+      "text": "Sch. 3 para. 1  in force at Royal Assent for specified purposes, see s. 55(1)(a)"
+    },
+    {
+      "id": "key-f9fe3641a9cc873d7ee1d1c637ac0cec",
+      "type": "I",
+      "text": "Sch. 3 para. 2  in force at Royal Assent for specified purposes, see s. 55(1)(a)"
+    },
+    {
+      "id": "key-b8361c248ca5ed613ca42c86844d8e35",
+      "type": "I",
+      "text": "Sch. 3 para. 3  in force at Royal Assent for specified purposes, see s. 55(1)(a)"
+    },
+    {
+      "id": "key-dccb8933e4439dbdc03d00ce9d62b835",
+      "type": "I",
+      "text": "Sch. 3 para. 4  in force at Royal Assent for specified purposes, see s. 55(1)(a)"
+    },
+    {
+      "id": "key-42744c9ea84b485d8849e8f649373eb1",
+      "type": "I",
+      "text": "Sch. 4 para. 1  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-284f95556a70fb4371b4c1571973a011",
+      "type": "I",
+      "text": "Sch. 4 para. 2  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-8394642638b4686bdb028b6abacfd999",
+      "type": "I",
+      "text": "Sch. 4 para. 3  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-133809812a098a212b0cf2dec656de4c",
+      "type": "I",
+      "text": "Sch. 4 para. 4  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-1eeeb032eea1f0d2b1abaa98d5379cbd",
+      "type": "I",
+      "text": "Sch. 4 para. 5  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-9d378fc58ce1c2e04f001ccdab228ef3",
+      "type": "I",
+      "text": "Sch. 4 para. 6  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-cfa365f4099355cd7c2ba8984eb551e1",
+      "type": "I",
+      "text": "Sch. 4 para. 7  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-a3792ca98721a8511f82c1c5ddf54786",
+      "type": "I",
+      "text": "Sch. 4 para. 8  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-1a9cff9216301618731eddfb1cb4fa3c",
+      "type": "I",
+      "text": "Sch. 4 para. 9  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-698a052dba07fe43503170ba9ede17a3",
+      "type": "I",
+      "text": "Sch. 4 para. 10  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-a1f748ec8df9148ff10ad6a7bb035472",
+      "type": "I",
+      "text": "Sch. 4 para. 11  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-6d81005a9a0a4e33945f94e24f05a6b5",
+      "type": "I",
+      "text": "Sch. 4 para. 12  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-c243b7ee0f1d19a559aaa9d7963ebefa",
+      "type": "I",
+      "text": "Sch. 4 para. 13  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-1c6ba98e25f8a4871806a776c886b543",
+      "type": "I",
+      "text": "Sch. 4 para. 14  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-0378760f5dc28fe1fb59ddb19b572b96",
+      "type": "I",
+      "text": "Sch. 4 para. 15  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-4d40be5d6a71f1e30bef72f85e2b34a7",
+      "type": "I",
+      "text": "Sch. 4 para. 16  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-b0bd238edc3873195cb1cebdd983a790",
+      "type": "I",
+      "text": "Sch. 4 para. 17  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-575a7f41bcde126fbf37afd141c074e9",
+      "type": "I",
+      "text": "Sch. 4 para. 18  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-6e5d38d4076a9a473e87b57a39e1df44",
+      "type": "I",
+      "text": "Sch. 4 para. 19  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-302f16f023181c2de4b2c96fd9584846",
+      "type": "I",
+      "text": "Sch. 4 para. 20  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-db8810c2ab935ad139f2668bc8c5793f",
+      "type": "I",
+      "text": "Sch. 4 para. 21  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-1842f58521554e8270bd8f91dd4ac197",
+      "type": "I",
+      "text": "Sch. 4 para. 22  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-31639dba13095b9bf69e7becbd39e5d6",
+      "type": "I",
+      "text": "Sch. 4 para. 23  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-1fd9cbc7ee1626ae6c24ac821726fc07",
+      "type": "I",
+      "text": "Sch. 4 para. 24  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-40c3b302486c58618ad7fa6e7278997b",
+      "type": "I",
+      "text": "Sch. 4 para. 25  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-0d2a363457acb8aacaab259d03aed235",
+      "type": "I",
+      "text": "Sch. 4 para. 26  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-aac9dd9c6a595d8160eec8e80a137256",
+      "type": "I",
+      "text": "Sch. 4 para. 27  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-a1d5e966100a82affa0bd3e66e4e2ab9",
+      "type": "I",
+      "text": "Sch. 4 para. 28  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-3a722de2532bc1d703a0ed6ec46a6791",
+      "type": "I",
+      "text": "Sch. 4 para. 29  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-0e16ab5a35ad4aa90afdf4343893aba5",
+      "type": "I",
+      "text": "Sch. 4 para. 30  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-1145d3db0d36899c586ac3a08d78239b",
+      "type": "I",
+      "text": "Sch. 4 para. 31  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-19866b7d1d072a35903acb4668edcd20",
+      "type": "I",
+      "text": "Sch. 4 para. 32  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-105d2f282b4feafea1824c39b7b55e45",
+      "type": "I",
+      "text": "Sch. 4 para. 33  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-dbfdb9a644004a5efea7c4f37e923e47",
+      "type": "I",
+      "text": "Sch. 4 para. 34  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-89e5abcb90e37c28218fa3ce0ee5604d",
+      "type": "I",
+      "text": "Sch. 4 para. 35  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-f6491cc33c7578b719321b31bf4a34c3",
+      "type": "I",
+      "text": "Sch. 4 para. 36  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-3222e9c173a25868cb4661f9efb97a46",
+      "type": "I",
+      "text": "Sch. 4 para. 37  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-06f14b2173d9e241cd8afc9ba1fce3c5",
+      "type": "I",
+      "text": "Sch. 4 para. 38  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-9e5ea98b30e1ec20f3edce48b8218ecc",
+      "type": "I",
+      "text": "Sch. 4 para. 39  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-0fb0c527687e00090a3ce0d25505cfbe",
+      "type": "I",
+      "text": "Sch. 4 para. 40  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-a67ac0629bfb44d19a858a30fc639558",
+      "type": "I",
+      "text": "Sch. 4 para. 41  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-994a837c9bed002b9bb3163cf386e8e9",
+      "type": "I",
+      "text": "Sch. 4 para. 42  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-c53bf3e40d3a844d3a20f5955730f786",
+      "type": "I",
+      "text": "Sch. 4 para. 43  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-7951db29cc931597ae665261c32e2505",
+      "type": "I",
+      "text": "Sch. 4 para. 44  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-f1ad3d01a8d026faed759d83988c0ecb",
+      "type": "I",
+      "text": "Sch. 4 para. 45  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-4637c785943db88656d31b7054269f97",
+      "type": "I",
+      "text": "Sch. 4 para. 46  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-af0867dda758cff5e1aa0c67cb66fe2c",
+      "type": "I",
+      "text": "Sch. 4 para. 47  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-8d600461678c20544fbece40023a8125",
+      "type": "I",
+      "text": "Sch. 4 para. 48  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-3430428667012b0f429503b8f62c8e50",
+      "type": "I",
+      "text": "Sch. 4 para. 49  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-549126c82b914d4318324644c0cbbfe7",
+      "type": "I",
+      "text": "Sch. 4 para. 50  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-cf3fb5f4d6342872ddf2071bb901c72f",
+      "type": "I",
+      "text": "Sch. 4 para. 51  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-55d41584f64111fbf64d2853c11c05b8",
+      "type": "I",
+      "text": "Sch. 4 para. 52  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-274680da6f925ad9a461425617ed836e",
+      "type": "I",
+      "text": "Sch. 4 para. 53  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-7934459d314b3bf4c1e627e29ac48f9b",
+      "type": "I",
+      "text": "Sch. 4 para. 54  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-938b9486ac8042515115bedd4ca20dc9",
+      "type": "I",
+      "text": "Sch. 4 para. 55  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-427fd1f3a518016df3a8dcbca9b4b24f",
+      "type": "I",
+      "text": "Sch. 4 para. 56  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-4a0c9e6f97feb668a4571af0beea3e9d",
+      "type": "I",
+      "text": "Sch. 4 para. 57  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-c3144440b79a7b6d7894a80667978cbf",
+      "type": "I",
+      "text": "Sch. 4 para. 58  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-68e3d85736a2c80f55c6dd4cbb276a4c",
+      "type": "I",
+      "text": "Sch. 4 para. 59  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-996b0eaef0575615f1ee0fdf4fbb348b",
+      "type": "I",
+      "text": "Sch. 4 para. 60  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-64b92040577e75ca4911696fa86ec53f",
+      "type": "I",
+      "text": "Sch. 4 para. 61  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-d323957b0bea373b3795d8f64b08358e",
+      "type": "I",
+      "text": "Sch. 4 para. 62  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-1683b20a7f1207bbd2abcd1de0b22769",
+      "type": "I",
+      "text": "Sch. 4 para. 63  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-004fd551ea86d208edce25dff7aa4322",
+      "type": "I",
+      "text": "Sch. 4 para. 64  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-f901cfdfeb0469f6157c682b947427c0",
+      "type": "I",
+      "text": "Sch. 4 para. 65  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-98c3b7cd49cd07f2807562c60fb6487b",
+      "type": "I",
+      "text": "Sch. 4 para. 66  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-cfb4dab7e995908066395a451ed1f9d0",
+      "type": "I",
+      "text": "Sch. 4 para. 67  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-63c04cf1fc051ac1236635492bdfe83a",
+      "type": "I",
+      "text": "Sch. 4 para. 68  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-7f3ef66cf05572a41806636924fd40eb",
+      "type": "I",
+      "text": "Sch. 4 para. 69  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-d2ab9e388f8e25a73d232fbd3d8613e6",
+      "type": "I",
+      "text": "Sch. 4 para. 70  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-7921f8f54742050a2649dea85af843a0",
+      "type": "I",
+      "text": "Sch. 4 para. 71  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-8548891e66fe6f0b1da213660393d731",
+      "type": "I",
+      "text": "Sch. 4 para. 72  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-7a0414a259c71b0ae4a1f20b7a163a10",
+      "type": "I",
+      "text": "Sch. 4 para. 73  not in force at Royal Assent, see s. 55(3)(c)"
+    },
+    {
+      "id": "key-c7912ac37fc3dcc049cdd844e20067e4",
+      "type": "I",
+      "text": "Sch. 6 para. 1  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-059fd471581a47731eef01359824f062",
+      "type": "I",
+      "text": "Sch. 6 para. 2  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-58d638000e82b588e086f1b1a03b7097",
+      "type": "I",
+      "text": "Sch. 6 para. 3  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-0653eb0a96114505fa494257cc79a40c",
+      "type": "I",
+      "text": "Sch. 6 para. 4  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-bb80e2f1b212e6bca3bf18124c2b63d4",
+      "type": "I",
+      "text": "Sch. 6 para. 5  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-0ee3bc1b469a5569e271cf18402277fd",
+      "type": "I",
+      "text": "Sch. 6 para. 6  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-2f554cac0be3663646b22677db7a05a3",
+      "type": "I",
+      "text": "Sch. 6 para. 7  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-192d47ae9d51f3ddfb77598d6610e472",
+      "type": "I",
+      "text": "Sch. 6 para. 8  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-4a7e483ca060cf9f2ec5771c8882ed69",
+      "type": "I",
+      "text": "Sch. 6 para. 9  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-43761e94b264bb2aae2d9bd9178a23a4",
+      "type": "I",
+      "text": "Sch. 6 para. 10  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-d65abcebad16769717cbdd2af1c2e69c",
+      "type": "I",
+      "text": "Sch. 6 para. 11  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-9d158caaecafd935cb93bc32c426071f",
+      "type": "I",
+      "text": "Sch. 6 para. 12  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-c9a0fe5bcd11afbb0cb32bcedb8a5921",
+      "type": "I",
+      "text": "Sch. 7 para. 1  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-579e8f4a87aa31f34137318373d30300",
+      "type": "I",
+      "text": "Sch. 7 para. 2  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-e1f1438b105e23af69aedd461ce40be8",
+      "type": "I",
+      "text": "Sch. 7 para. 3  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-ad38bbae28ff415ae5a8ee83719be230",
+      "type": "I",
+      "text": "Sch. 7 para. 4  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-83104144413bfda06dcd1b4cfe29c757",
+      "type": "I",
+      "text": "Sch. 7 para. 5  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-5388e655b9f2d04749ac2fedd16283ef",
+      "type": "I",
+      "text": "Sch. 8 para. 1  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-e7d6b4f7068aacfd40e05d078e4fb09a",
+      "type": "I",
+      "text": "Sch. 8 para. 2  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-ad8c630cc60cacf62eed43f98a51e092",
+      "type": "I",
+      "text": "Sch. 8 para. 3  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-886b159d3a0e32f1730c6e8883280a81",
+      "type": "I",
+      "text": "Sch. 8 para. 4  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-9e8e7c077eaf3e0d39be9a0697f9009c",
+      "type": "I",
+      "text": "Sch. 8 para. 5  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-7e06fa84d6401578fb10c8928fe0cbab",
+      "type": "I",
+      "text": "Sch. 8 para. 6  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-61b3588c2f4c79f955506a2cb7f6d270",
+      "type": "I",
+      "text": "Sch. 8 para. 7  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-02a054609d7ea42689a399c18f9e40af",
+      "type": "I",
+      "text": "Sch. 8 para. 8  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-564614e7a9f02872b34f8bf86627ac86",
+      "type": "I",
+      "text": "Sch. 8 para. 9  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-26c354cf567d6fb0932385f9f112358f",
+      "type": "I",
+      "text": "Sch. 8 para. 10  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-9db72175fca28def971b35eafa4dd87b",
+      "type": "I",
+      "text": "Sch. 8 para. 11  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-616297286810fed78ae748f29533ba49",
+      "type": "I",
+      "text": "Sch. 8 para. 12  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-85b436db8f1b3b8204bd96d377acb027",
+      "type": "I",
+      "text": "Sch. 9 para. 1  not in force at Royal Assent, see s. 55(3)(f)"
+    },
+    {
+      "id": "key-09162070f538bc4b3ee7140a211d3669",
+      "type": "I",
+      "text": "Sch. 9 para. 2  not in force at Royal Assent, see s. 55(3)(f)"
+    },
+    {
+      "id": "key-8dc9044662683dbdcd6516623be2c370",
+      "type": "I",
+      "text": "Sch. 9 para. 3  not in force at Royal Assent, see s. 55(3)(f)"
+    },
+    {
+      "id": "key-2fdedd2bfb5a3064a9e0cfec04fbc067",
+      "type": "I",
+      "text": "Sch. 9 para. 4  not in force at Royal Assent, see s. 55(3)(f)"
+    },
+    {
+      "id": "key-51ec269240e3309984946d4e4c22c0af",
+      "type": "I",
+      "text": "Sch. 12 para. 1  not in force at Royal Assent, see s. 55(3)(h)"
+    },
+    {
+      "id": "key-14b0528912b5a88bc26871fbf6a09686",
+      "type": "I",
+      "text": "Sch. 12 para. 2  not in force at Royal Assent, see s. 55(3)(h)"
+    },
+    {
+      "id": "key-1e693621cfb236be9f7f2cbf606afda1",
+      "type": "I",
+      "text": "Sch. 12 para. 3  not in force at Royal Assent, see s. 55(3)(h)"
+    },
+    {
+      "id": "key-6954af0eed8ceb1e8e88ea7285705a94",
+      "type": "I",
+      "text": "Sch. 12 para. 4  not in force at Royal Assent, see s. 55(3)(h)"
+    },
+    {
+      "id": "key-72c19a830cee2a550ad98c2ce660fe0f",
+      "type": "I",
+      "text": "Sch. 12 para. 5  not in force at Royal Assent, see s. 55(3)(h)"
+    },
+    {
+      "id": "key-159d25a86aab4933a3e5feeeba756ab1",
+      "type": "I",
+      "text": "Sch. 12 para. 6  not in force at Royal Assent, see s. 55(3)(h)"
+    },
+    {
+      "id": "key-4c44c65eba8433c9dc351633a67616e1",
+      "type": "I",
+      "text": "Sch. 12 para. 7  not in force at Royal Assent, see s. 55(3)(h)"
+    },
+    {
+      "id": "key-083dd2f87aa53aadf129a1e94198b238",
+      "type": "I",
+      "text": "Sch. 12 para. 8  not in force at Royal Assent, see s. 55(3)(h)"
+    },
+    {
+      "id": "key-7b35c108d8facd14bf2c7f03e4e5f400",
+      "type": "I",
+      "text": "Sch. 12 para. 9  not in force at Royal Assent, see s. 55(3)(h)"
+    },
+    {
+      "id": "key-a8058614619c360628f03df77c49279a",
+      "type": "I",
+      "text": "Sch. 12 para. 10  not in force at Royal Assent, see s. 55(3)(h)"
+    },
+    {
+      "id": "key-da10ecbc98152aa87ec6a943d32b7b32",
+      "type": "I",
+      "text": "Sch. 5  not in force at Royal Assent, see s. 55(3)(d)"
+    },
+    {
+      "id": "key-dc70b9221edb76acc88bd7c4aaf882fe",
+      "type": "I",
+      "text": "Sch. 10  not in force at Royal Assent, see s. 55(3)(g)"
+    },
+    {
+      "id": "key-5dee8fe370c48e8eddc470c15a11c7ef",
+      "type": "I",
+      "text": "Sch. 11  not in force at Royal Assent, see s. 55(3)(g)"
+    },
+    {
+      "id": "key-3c06836939c140b9c9f57d8ff585db1a",
+      "type": "I",
+      "text": "S. 50 in force at 24.7.2024, see s. 55(2)"
+    },
+    {
+      "id": "key-a060f37f2aa101d49e0195653a8c407a",
+      "type": "I",
+      "text": "S. 25(2)-(7) in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(e)"
+    },
+    {
+      "id": "key-e4aee5e69fea242f3378bb610a4bcb78",
+      "type": "I",
+      "text": "S. 44(1)-(8) in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-bd9460035a8272dbbb82d4b139f978fa",
+      "type": "I",
+      "text": "Sch. 4 para. 57(1)-(3), (4)(a)(4)(b)(i) in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-777816cb4abe66ae8e2542736917e48b",
+      "type": "I",
+      "text": "Sch. 4 para. 65(1)-(4), (5)(a)(b)(i) in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-d43e110e2f14bffc59fdfa0d041dc583",
+      "type": "I",
+      "text": "S. 1(1)(2)(4)(5) in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-afad9266234ea9af933c506f1f59765e",
+      "type": "I",
+      "text": "S. 3 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-776b68ebed84ff904c1c730b63900578",
+      "type": "I",
+      "text": "S. 4 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-01ad38dc4edf7f93ccb2f85ac54591c6",
+      "type": "I",
+      "text": "S. 5 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-92a91f105d363ed1d3a319794c74d5c5",
+      "type": "I",
+      "text": "S. 8 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-ab07ac40d17aaeb1a714294376a96f0a",
+      "type": "I",
+      "text": "S. 9 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-59240db47ef21d3326396445dca77977",
+      "type": "I",
+      "text": "S. 11 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-071520f4e87a3a73e47c436a26fd754e",
+      "type": "I",
+      "text": "S. 12 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-cd5101ed3377f8c9360fee5cbf08a4e8",
+      "type": "I",
+      "text": "S. 13 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-282cca6b61ed099e77f2cfdfa745ed51",
+      "type": "I",
+      "text": "S. 14 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-85c2472a898bc8936c6426935d4f0e22",
+      "type": "I",
+      "text": "S. 15 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-ff1bae2eaf4875f2cfb3e474324a1ccc",
+      "type": "I",
+      "text": "S. 16 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(a)"
+    },
+    {
+      "id": "key-d2e18c2243536ddda881e71b3b7db794",
+      "type": "I",
+      "text": "S. 17 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-bae48af520b708dc5f1a32ab8914abaa",
+      "type": "I",
+      "text": "S. 18 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(b)"
+    },
+    {
+      "id": "key-a6f1831023d94f6be29381371f5271a9",
+      "type": "I",
+      "text": "S. 20 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-31f7fa35b6c6647cc1ca72939fdcad03",
+      "type": "I",
+      "text": "S. 21 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-58dce6288fb6730b6d33e4ebb39a9fee",
+      "type": "I",
+      "text": "S. 22 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-2325c3ca7086b5ee37dc95bc1f1caa3d",
+      "type": "I",
+      "text": "S. 23 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(c)"
+    },
+    {
+      "id": "key-8709bb7288c08b4803aea3202b5fe2a2",
+      "type": "I",
+      "text": "S. 24 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(d)"
+    },
+    {
+      "id": "key-7ed09f09e7ac0a8d358b20f842408d1a",
+      "type": "I",
+      "text": "S. 26 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(f)"
+    },
+    {
+      "id": "key-db0b826062746bc32bd645c2d3b79185",
+      "type": "I",
+      "text": "S. 27 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(g)"
+    },
+    {
+      "id": "key-e16c11ea963cf8a1682730ebfe9bbb7d",
+      "type": "I",
+      "text": "S. 28(1) in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 2(1)(h) (with reg. 2(2))"
+    },
+    {
+      "id": "key-b1916cb12538d83b61a7e18cb994b649",
+      "type": "I",
+      "text": "S. 28(2) in force at 23.8.2024 in so far as not already in force by S.I. 2024/858, reg. 2(1)(h)"
+    },
+    {
+      "id": "key-2199dd3734bfae335ee018d615e5ac30",
+      "type": "I",
+      "text": "S. 29 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(i)"
+    },
+    {
+      "id": "key-c316d36ab65e7deddc63220bd450014a",
+      "type": "I",
+      "text": "S. 30 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-5ddef9b8be9d8857222366dbaab0c3dd",
+      "type": "I",
+      "text": "S. 31 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(j)"
+    },
+    {
+      "id": "key-c547e052e219f0d3b586c380a02e2084",
+      "type": "I",
+      "text": "S. 33 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(k)"
+    },
+    {
+      "id": "key-32570fcc845a19437e36f0178ec7fd73",
+      "type": "I",
+      "text": "S. 34 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(l)"
+    },
+    {
+      "id": "key-b0c47258153e0aab86550896cd3d5e80",
+      "type": "I",
+      "text": "S. 35 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(m)"
+    },
+    {
+      "id": "key-e4ec911a2a559e71a9425f55f701cad2",
+      "type": "I",
+      "text": "S. 36 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(n)"
+    },
+    {
+      "id": "key-b0b5d0ffa6a6c7dc657914c994a5a599",
+      "type": "I",
+      "text": "S. 37 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(o)"
+    },
+    {
+      "id": "key-73c58fa76319af3e9718ec634a2c5882",
+      "type": "I",
+      "text": "S. 38 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(p)"
+    },
+    {
+      "id": "key-7ce38850d8b136bc76b0885569430324",
+      "type": "I",
+      "text": "S. 39 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(q)"
+    },
+    {
+      "id": "key-3840af193e5aeab5bca1ffeefd0d3fc5",
+      "type": "I",
+      "text": "S. 40 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(r)"
+    },
+    {
+      "id": "key-410c3e7f4d50c1a9d148f96f0853ab62",
+      "type": "I",
+      "text": "S. 48 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 2(1)(s)"
+    },
+    {
+      "id": "key-b476558ffc987f60ffa0d95f986f32a4",
+      "type": "I",
+      "text": "S. 49 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(t)"
+    },
+    {
+      "id": "key-ea9fc80c237c9c823eb173025f7bb5d5",
+      "type": "I",
+      "text": "S. 51 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(u)"
+    },
+    {
+      "id": "key-3b6cad29a8f2e8a15742037eed3399f2",
+      "type": "I",
+      "text": "Sch. 1 para. 3 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-b56a92829f4c87047739c845f11799df",
+      "type": "I",
+      "text": "Sch. 1 para. 4 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-9fa732c02efc04079c7914517d6c200b",
+      "type": "I",
+      "text": "Sch. 2 para. 1 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-05fc1eee999f69a3a5702ef322e12aeb",
+      "type": "I",
+      "text": "Sch. 2 para. 2 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-fa820cfa5bf2fe8fbee444aa9ee9a449",
+      "type": "I",
+      "text": "Sch. 2 para. 3 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-3891200bef7a71328b9ee7b871372f47",
+      "type": "I",
+      "text": "Sch. 2 para. 4 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-bbc68e18ffcc5e810bea3da8c8e81a90",
+      "type": "I",
+      "text": "Sch. 2 para. 5 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-b2430d637b6f2669894daf7f2fa308b8",
+      "type": "I",
+      "text": "Sch. 2 para. 6 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-b92a135cfc3659f8064a567173493488",
+      "type": "I",
+      "text": "Sch. 2 para. 7 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-441d90c207ad3ad57e7369f9fb59a5e5",
+      "type": "I",
+      "text": "Sch. 2 para. 8 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-254ac277af554b3af850cec1522600e4",
+      "type": "I",
+      "text": "Sch. 2 para. 9 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-429c85dced65a7f3758c24a1e6a3a2fc",
+      "type": "I",
+      "text": "Sch. 2 para. 10 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-1ad4463eb13733246d132d14beff279e",
+      "type": "I",
+      "text": "Sch. 2 para. 11 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-b215f6cd8b2b8d4a6da0e0a4d6a819c9",
+      "type": "I",
+      "text": "Sch. 2 para. 12(1)(3) in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-e099b8a03792630cb095cb48164bc9ec",
+      "type": "I",
+      "text": "Sch. 2 para. 13 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-f32b23993dac3d34d96a442432731a20",
+      "type": "I",
+      "text": "Sch. 2 para. 14 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-be5d3d978f57d028007d4b0e57505274",
+      "type": "I",
+      "text": "Sch. 2 para. 15 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-b3f1d1e6a6783116ac92188d5e93ad13",
+      "type": "I",
+      "text": "Sch. 2 para. 16 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-7e21bde0d44a1643a7180e431b5dd7ae",
+      "type": "I",
+      "text": "Sch. 2 para. 18 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-a1ecaaf875a61dc5d5b5a3ae3287e2ea",
+      "type": "I",
+      "text": "Sch. 2 para. 19 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-e1acc78faf1beeb731450c8c84e43972",
+      "type": "I",
+      "text": "Sch. 2 para. 20 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-e4e79dd871d7f57b730d7afd8f735dad",
+      "type": "I",
+      "text": "Sch. 2 para. 21 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-000b960a0c1414064a87845b7e011bec",
+      "type": "I",
+      "text": "Sch. 2 para. 22 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-d8d81f1a3f727102f0e46cf0d65dcd0c",
+      "type": "I",
+      "text": "Sch. 2 para. 23 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 3, Sch."
+    },
+    {
+      "id": "key-ecee50bfe1de860f9be6ef5328669950",
+      "type": "I",
+      "text": "Sch. 2 para. 24 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-b5fe9e788b4585c1ea5f9eabe8143af5",
+      "type": "I",
+      "text": "Sch. 2 para. 27 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-e21fd856059334c12dfcf537f69f56ad",
+      "type": "I",
+      "text": "Sch. 2 para. 28 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-1fc6bfbf4512fe05f67e85f39368f80e",
+      "type": "I",
+      "text": "Sch. 2 para. 29 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-d8ae63b83236263262ecc58332e61538",
+      "type": "I",
+      "text": "Sch. 2 para. 30 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-51b2486db63f3d86d6ade73336a84229",
+      "type": "I",
+      "text": "Sch. 2 para. 31 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-0c1c2bafb45d34437f8bd88cea598498",
+      "type": "I",
+      "text": "Sch. 2 para. 32(1)(3) in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-3f7878b0e6fe3d022360a8be469c8759",
+      "type": "I",
+      "text": "Sch. 2 para. 33 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-054ebf6795cb0e0021a51d2d3d4ba1a4",
+      "type": "I",
+      "text": "Sch. 2 para. 34 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-9e200a2cd94bbda74863df418195f6e0",
+      "type": "I",
+      "text": "Sch. 2 para. 35 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-052d7874a50325fd10e44cb3bca8c1a2",
+      "type": "I",
+      "text": "Sch. 2 para. 36(1)(3) in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-12d1b8a75aaed62e8cf1436b278a92cf",
+      "type": "I",
+      "text": "Sch. 2 para. 37 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-75ded2d830f36ac3ebfb3f36b174ccb1",
+      "type": "I",
+      "text": "Sch. 2 para. 38 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-b126f7cda90573cb4b3f535a9369558d",
+      "type": "I",
+      "text": "Sch. 2 para. 39 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-e34b921e7bad0157f08c3975bc4fa004",
+      "type": "I",
+      "text": "Sch. 2 para. 40 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-0d85661a15c7906fe44c23c0080df5b1",
+      "type": "I",
+      "text": "Sch. 2 para. 41 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-ec638f66616b0c5a5c7f845ff567a75c",
+      "type": "I",
+      "text": "Sch. 2 para. 42 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-28a766454f4dcaff8eec8cd4fcea7caa",
+      "type": "I",
+      "text": "Sch. 2 para. 43 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-f54e21d897b787d5762ff043417dd6f5",
+      "type": "I",
+      "text": "Sch. 2 para. 44 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-141e2d95127ba72fa7257864a6425a07",
+      "type": "I",
+      "text": "Sch. 2 para. 45 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-b2cd1d58eebef57ada2505f674133727",
+      "type": "I",
+      "text": "Sch. 2 para. 46 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-63563c2477e3b4d95f0cda43450b5daa",
+      "type": "I",
+      "text": "Sch. 2 para. 47 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-21763ede3eafc2ce7560a0be62b05640",
+      "type": "I",
+      "text": "Sch. 2 para. 48 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-164a8a9cc78ee95e5b4fbadbc4d71235",
+      "type": "I",
+      "text": "Sch. 2 para. 49 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-38112155ffa43293a36c20c675553eda",
+      "type": "I",
+      "text": "Sch. 2 para. 50 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-73343b24ad0d111fe2d23cc72da83495",
+      "type": "I",
+      "text": "Sch. 2 para. 51 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-119e2ca6397ebaf225ef809b2f15adf0",
+      "type": "I",
+      "text": "Sch. 2 para. 52 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-153c7c62b5ae6e14812ea104964ac017",
+      "type": "I",
+      "text": "Sch. 2 para. 53 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-06924f3c6c86cc4e98a04e1953dda9b3",
+      "type": "I",
+      "text": "Sch. 2 para. 54 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-18afb0aa3ce9258c41c6d18da22ae002",
+      "type": "I",
+      "text": "Sch. 2 para. 55 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-3a9bac9882565551284078beb36fe041",
+      "type": "I",
+      "text": "Sch. 2 para. 56 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-79b29c912e95700c7e5ab6cc78578ae9",
+      "type": "I",
+      "text": "Sch. 2 para. 57 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-35fa4591e338de11a353e282d5286a56",
+      "type": "I",
+      "text": "Sch. 2 para. 60(1)(3)(4) in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-e8f09c1f742eb5dbc0114ba0e2eae837",
+      "type": "I",
+      "text": "Sch. 2 para. 61(a) in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-33fe42b1505e6913819201c7e109b120",
+      "type": "I",
+      "text": "Sch. 2 para. 62 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-57cec6b231b5682445dce5e620996f50",
+      "type": "I",
+      "text": "Sch. 2 para. 63 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-2c71a17a0d2267b66ee8a2a75e1099d5",
+      "type": "I",
+      "text": "Sch. 2 para. 64 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-ffa9497d67248489ec0780317ca2da13",
+      "type": "I",
+      "text": "Sch. 2 para. 65 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-de16562574a2edc24dd46e972d865e73",
+      "type": "I",
+      "text": "Sch. 2 para. 66 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(v)"
+    },
+    {
+      "id": "key-96756731888325bd73af9d5c134fc6ed",
+      "type": "I",
+      "text": "Sch. 3 para. 1 in force at 23.8.2024 in so far as not already in force by S.I. 2024/858, reg. 2(1)(w)"
+    },
+    {
+      "id": "key-56a8ed771b800861e0cf281e318500c5",
+      "type": "I",
+      "text": "Sch. 3 para. 2 in force at 23.8.2024 in so far as not already in force by S.I. 2024/858, reg. 2(1)(w)"
+    },
+    {
+      "id": "key-0faaf2f0fb26d163df5c0bd7755409a4",
+      "type": "I",
+      "text": "Sch. 3 para. 3 in force at 23.8.2024 in so far as not already in force by S.I. 2024/858, reg. 2(1)(w)"
+    },
+    {
+      "id": "key-487f3249c33d01360762673e68a2ebc2",
+      "type": "I",
+      "text": "Sch. 3 para. 4 in force at 23.8.2024 in so far as not already in force by S.I. 2024/858, reg. 2(1)(w)"
+    },
+    {
+      "id": "key-44dc7e882d68e2e6611391c379c9ae53",
+      "type": "I",
+      "text": "Sch. 4 para. 1 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-b4be5999c351501062c32f684303c045",
+      "type": "I",
+      "text": "Sch. 4 para. 2 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-8fc80ae3184a47aacbdbf46b35d1d6a8",
+      "type": "I",
+      "text": "Sch. 4 para. 3 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-d11c4fea574984e16f8d2ddd9979a450",
+      "type": "I",
+      "text": "Sch. 4 para. 4 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-ad670a0220b9b747ed7ac2e3162ab326",
+      "type": "I",
+      "text": "Sch. 4 para. 5(1)(2)(a)(2)(b)(3)(4) in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-6afcbe249cc8093a1cc5e7bf64253b56",
+      "type": "I",
+      "text": "Sch. 4 para. 6(1)(2)(a)(2)(b)(3)(a)(5) in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-39c7a72ad993760791695e2c2a9b581b",
+      "type": "I",
+      "text": "Sch. 4 para. 7 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-0476f7cc45d05b03485e9f7d023f1590",
+      "type": "I",
+      "text": "Sch. 4 para. 8 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-5c370718a1ea84f4d75333629d46cb15",
+      "type": "I",
+      "text": "Sch. 4 para. 9 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-fa08217921e85750a322675ca3e89562",
+      "type": "I",
+      "text": "Sch. 4 para. 10 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-0a6dcd462b62ffc940312b06e18c8e7d",
+      "type": "I",
+      "text": "Sch. 4 para. 11 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-46b7ade3e5fc1dbe10607238a8121d12",
+      "type": "I",
+      "text": "Sch. 4 para. 12 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-d9c0d5f4eec567528518375e2b12bc08",
+      "type": "I",
+      "text": "Sch. 4 para. 13 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-7a44f37d7fe92ff52fdffb4f5f42e20d",
+      "type": "I",
+      "text": "Sch. 4 para. 14 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-256007e402b0fb74675621409b896f67",
+      "type": "I",
+      "text": "Sch. 4 para. 15 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-6dfa37717ef1619a2b8aee45a0c40ff0",
+      "type": "I",
+      "text": "Sch. 4 para. 16 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-9f7fb2739247f80f0d6a299aaa7e9544",
+      "type": "I",
+      "text": "Sch. 4 para. 17 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-c6b5c0386cd902f237cb73824c8cafcf",
+      "type": "I",
+      "text": "Sch. 4 para. 18(a) in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-440fcabcd9baf94a4c59bb078632d15b",
+      "type": "I",
+      "text": "Sch. 4 para. 19(1)(2)(3)(a)(4) in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-88806dd33681886bdd5b168279712fa5",
+      "type": "I",
+      "text": "Sch. 4 para. 20 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-ae2fa842440b96c70dd2c8068f928938",
+      "type": "I",
+      "text": "Sch. 4 para. 21 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-51c86a672a71e4f8cb3c0b3a7f8c0c97",
+      "type": "I",
+      "text": "Sch. 4 para. 22 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-b6052b162844fb7bb2c4d91cbecf8a02",
+      "type": "I",
+      "text": "Sch. 4 para. 23(a) in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-6c43549817cf52f1515db45af700b399",
+      "type": "I",
+      "text": "Sch. 4 para. 24 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-a8bd054bef0c1c7ec5eb7a2cfda068b7",
+      "type": "I",
+      "text": "Sch. 4 para. 25 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-9c66b6a6e5dff5a14de36d45df360488",
+      "type": "I",
+      "text": "Sch. 4 para. 26 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-9991dba51f9765865f867063050ceda6",
+      "type": "I",
+      "text": "Sch. 4 para. 27 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-6ee8993afa4486d91e9fdebe92214e0f",
+      "type": "I",
+      "text": "Sch. 4 para. 28 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-e324b323d56a8fb002f8b617254806ef",
+      "type": "I",
+      "text": "Sch. 4 para. 29 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-d8cd111d6a4b3fe985c020d2df003c51",
+      "type": "I",
+      "text": "Sch. 4 para. 30 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-ef5068ae8f96a5649bfacd3c91771d2a",
+      "type": "I",
+      "text": "Sch. 4 para. 31 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-012056b6b9f10025cb09cfdeca2476ce",
+      "type": "I",
+      "text": "Sch. 4 para. 32 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-c6f8924321b516bc38e4bcbd5172aff0",
+      "type": "I",
+      "text": "Sch. 4 para. 33 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-0be594c9c7e5b7e68e49ffbcbeb1940c",
+      "type": "I",
+      "text": "Sch. 4 para. 34 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-b8a987e23bb57eef2aeb89fdacf61e5e",
+      "type": "I",
+      "text": "Sch. 4 para. 35 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-1d30242f1da5e37dc1b39d471b75f0d6",
+      "type": "I",
+      "text": "Sch. 4 para. 36 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-516280ae50dea37cad2a3eae82ddbce5",
+      "type": "I",
+      "text": "Sch. 4 para. 37 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-084d66e01adb3e6937f5423ff9e7cdfa",
+      "type": "I",
+      "text": "Sch. 4 para. 38 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-1d1eecda441d4dbc2d1838275f0a517f",
+      "type": "I",
+      "text": "Sch. 4 para. 39(1)(3)(4)(a) in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-7c17800f6b8d65cb9a6a26843e699b48",
+      "type": "I",
+      "text": "Sch. 4 para. 40 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-9bb6b62e8f631bc7a82bf06e4769a830",
+      "type": "I",
+      "text": "Sch. 4 para. 41(1)(2)(4)(5) in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-0b07db8fc3bb9635b07df44143e5beaa",
+      "type": "I",
+      "text": "Sch. 4 para. 42 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-c8c4f08fd6192c6568d90b2b5e35b1b8",
+      "type": "I",
+      "text": "Sch. 4 para. 43 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-8b5a7c59eba54aff2ea31a74cb409752",
+      "type": "I",
+      "text": "Sch. 4 para. 44 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-65b4abed5d07a0770f5be0939dced884",
+      "type": "I",
+      "text": "Sch. 4 para. 45 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-0dc66ab278dca50dae9f4ed6943d2761",
+      "type": "I",
+      "text": "Sch. 4 para. 46 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-689b163bbf433b1722fff059d9224bcf",
+      "type": "I",
+      "text": "Sch. 4 para. 47 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-a53126456eaa77767504e37c19a5c193",
+      "type": "I",
+      "text": "Sch. 4 para. 48 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-886f54f8fd05b6bcff0011d21a9fd4be",
+      "type": "I",
+      "text": "Sch. 4 para. 49 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-57c4395ddb49f58e4dee71c10a417e24",
+      "type": "I",
+      "text": "Sch. 4 para. 50 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-089f29168ecc48a9bd3a4ff533922c9a",
+      "type": "I",
+      "text": "Sch. 4 para. 52(1)(2)(3)(a) in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-27ddedbf5720ba1f1ebb6c8c3eeee207",
+      "type": "I",
+      "text": "Sch. 4 para. 55 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-7702be7cc9b0a39d7e415c19d59853da",
+      "type": "I",
+      "text": "Sch. 4 para. 56 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-86aa31bab9f22ccc54b4182cd3b31035",
+      "type": "I",
+      "text": "Sch. 4 para. 58 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-c13f2600d2864ea4250033a3ae499c09",
+      "type": "I",
+      "text": "Sch. 4 para. 59 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-0f31f6f33173bcbc08ef1b95509e3eb8",
+      "type": "I",
+      "text": "Sch. 4 para. 60 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-8e62c03c0afb0ed1ce24180c00393d76",
+      "type": "I",
+      "text": "Sch. 4 para. 61 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-7fffd6b4b560fbfa01e3c75dd93e6e5a",
+      "type": "I",
+      "text": "Sch. 4 para. 62 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-942e925b5d1e0b0c7fcb5492a7baf2ba",
+      "type": "I",
+      "text": "Sch. 4 para. 63 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-700312f650b57cee6f87896192ea4350",
+      "type": "I",
+      "text": "Sch. 4 para. 64 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-2dffdc352c88b14c56744493e1c142ff",
+      "type": "I",
+      "text": "Sch. 4 para. 66 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-a11d8a889c9d983b51b21b05a4c12b5c",
+      "type": "I",
+      "text": "Sch. 4 para. 67 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-b4fad780c4bd444245210fcb125911ef",
+      "type": "I",
+      "text": "Sch. 4 para. 68 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-c830d36583b22890fef77466e20cc807",
+      "type": "I",
+      "text": "Sch. 4 para. 69 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-bf5df646378b6c79505e56c85dad2119",
+      "type": "I",
+      "text": "Sch. 4 para. 70 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-4615ebc4dd486ea925f9cec33eeb4aa3",
+      "type": "I",
+      "text": "Sch. 4 para. 71(1)(2)(a)(2)(b)(3)(4) in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-0398efc50e2fd82ef162c2077641b3f2",
+      "type": "I",
+      "text": "Sch. 4 para. 72 in force at 23.8.2024 for specified purposes by S.I. 2024/858, reg. 2(1)(x)(xiii)"
+    },
+    {
+      "id": "key-7d4712d4110a0101b056a9b7877bc64d",
+      "type": "I",
+      "text": "Sch. 4 para. 73 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(x)"
+    },
+    {
+      "id": "key-16f80aa11f8df68df372f5192eca24ce",
+      "type": "I",
+      "text": "Sch. 5 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(y)"
+    },
+    {
+      "id": "key-d6cf3eaedc8abaf23f859d2b932d333d",
+      "type": "I",
+      "text": "Sch. 6 para. 1 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z)"
+    },
+    {
+      "id": "key-81ae1ece164c37ada8df55c41a1e27f0",
+      "type": "I",
+      "text": "Sch. 6 para. 2 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z)"
+    },
+    {
+      "id": "key-3510bf1e67d8b636acd0eb7dcee25966",
+      "type": "I",
+      "text": "Sch. 6 para. 3 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z)"
+    },
+    {
+      "id": "key-a63e1a02c3e42af7e0546504d83341fc",
+      "type": "I",
+      "text": "Sch. 6 para. 4 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z)"
+    },
+    {
+      "id": "key-4df7232151c3205600c496c53359e4d5",
+      "type": "I",
+      "text": "Sch. 6 para. 5 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z)"
+    },
+    {
+      "id": "key-b1fe6e2dd816bbf0c67a11fbb3c77163",
+      "type": "I",
+      "text": "Sch. 6 para. 6 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z)"
+    },
+    {
+      "id": "key-244438ea5b4475be396d112f788ce9ed",
+      "type": "I",
+      "text": "Sch. 6 para. 7 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z)"
+    },
+    {
+      "id": "key-90f3563a4e228d76c1fe8992172d6e89",
+      "type": "I",
+      "text": "Sch. 6 para. 8 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z)"
+    },
+    {
+      "id": "key-5b161cb411b66107edc6751bf63359df",
+      "type": "I",
+      "text": "Sch. 6 para. 9 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z)"
+    },
+    {
+      "id": "key-00fcb4f652f89a4d127721ff45cd0736",
+      "type": "I",
+      "text": "Sch. 6 para. 10 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z)"
+    },
+    {
+      "id": "key-168297f35b4be26705b15ee0c47fd060",
+      "type": "I",
+      "text": "Sch. 6 para. 11 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z)"
+    },
+    {
+      "id": "key-e52966bde9a549058c1c766e9fb6eb87",
+      "type": "I",
+      "text": "Sch. 6 para. 12 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z)"
+    },
+    {
+      "id": "key-6c1a978521de048b450fdaa99fc669ce",
+      "type": "I",
+      "text": "Sch. 7 para. 1 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z1)"
+    },
+    {
+      "id": "key-1e288663294fe2f2ad3cd32ddf8dad73",
+      "type": "I",
+      "text": "Sch. 7 para. 2 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z1)"
+    },
+    {
+      "id": "key-6450aeac252cf576d7431018008743be",
+      "type": "I",
+      "text": "Sch. 7 para. 3 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z1)"
+    },
+    {
+      "id": "key-4b92d1608ae1f279f3d0c05fde318fec",
+      "type": "I",
+      "text": "Sch. 7 para. 4 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z1)"
+    },
+    {
+      "id": "key-199f74e96d9c0e0e12e07f7e0cea04eb",
+      "type": "I",
+      "text": "Sch. 7 para. 5 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z1)"
+    },
+    {
+      "id": "key-3db1459f51e5d120bf6b9a998cde1a61",
+      "type": "I",
+      "text": "Sch. 8 para. 1 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z2)"
+    },
+    {
+      "id": "key-0d6256249ff0b34556ac50054ead41d6",
+      "type": "I",
+      "text": "Sch. 8 para. 2 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z2)"
+    },
+    {
+      "id": "key-46a1b964cd50254981b5b86a60fdd6d7",
+      "type": "I",
+      "text": "Sch. 8 para. 3 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z2)"
+    },
+    {
+      "id": "key-47197626ccdf801355732bef44de53df",
+      "type": "I",
+      "text": "Sch. 8 para. 4 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z2)"
+    },
+    {
+      "id": "key-a96ea4cfb2f72b439f82a1cf468fc3cf",
+      "type": "I",
+      "text": "Sch. 8 para. 5 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z2)"
+    },
+    {
+      "id": "key-092bfd4404ea29aa122c5a47247f2da3",
+      "type": "I",
+      "text": "Sch. 8 para. 6 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z2)"
+    },
+    {
+      "id": "key-f341fe9d6a86ce6c0f30a4c263934f9d",
+      "type": "I",
+      "text": "Sch. 8 para. 7 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z2)"
+    },
+    {
+      "id": "key-d2dba4cf338a643316465fd7ff945b0a",
+      "type": "I",
+      "text": "Sch. 8 para. 8 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z2)"
+    },
+    {
+      "id": "key-fc152c46c01158cf76ff83cbc1d127f7",
+      "type": "I",
+      "text": "Sch. 8 para. 9 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z2)"
+    },
+    {
+      "id": "key-65b034d3fe1a4d7fb610f72b4884ce3a",
+      "type": "I",
+      "text": "Sch. 8 para. 10 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z2)"
+    },
+    {
+      "id": "key-d11bb245f54b57a39dcac8abaa397586",
+      "type": "I",
+      "text": "Sch. 8 para. 11 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z2)"
+    },
+    {
+      "id": "key-bd877bdff1fd4154058e376b490783f9",
+      "type": "I",
+      "text": "Sch. 8 para. 12 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z2)"
+    },
+    {
+      "id": "key-d1450afd17e6244f73a70fa6e270c469",
+      "type": "I",
+      "text": "Sch. 9 para. 1 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z3)"
+    },
+    {
+      "id": "key-9c63ac3d6e7966a8c19adb8b0d4675de",
+      "type": "I",
+      "text": "Sch. 9 para. 2 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z3)"
+    },
+    {
+      "id": "key-4656282da22c1eeaa1d36dfd20a726d9",
+      "type": "I",
+      "text": "Sch. 9 para. 3 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z3)"
+    },
+    {
+      "id": "key-24a478577b80854804bcc90e5bc07d89",
+      "type": "I",
+      "text": "Sch. 9 para. 4 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z3)"
+    },
+    {
+      "id": "key-78d568774fa398fa86902c8e8c4c67b4",
+      "type": "I",
+      "text": "Sch. 10 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z4)"
+    },
+    {
+      "id": "key-e543d87e07d48d27cea5efe05e1bf66a",
+      "type": "I",
+      "text": "Sch. 11 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z5)"
+    },
+    {
+      "id": "key-e334cbe3d972c6369fff7ea460fafcab",
+      "type": "I",
+      "text": "Sch. 12 para. 1 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z6)"
+    },
+    {
+      "id": "key-5eb1ed44aec492d76511694b61359d37",
+      "type": "I",
+      "text": "Sch. 12 para. 2 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z6)"
+    },
+    {
+      "id": "key-d707f01eb8924d429f90aed696a16d7a",
+      "type": "I",
+      "text": "Sch. 12 para. 3 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z6)"
+    },
+    {
+      "id": "key-ef892b65d65dddfd399e226445da3852",
+      "type": "I",
+      "text": "Sch. 12 para. 4 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z6)"
+    },
+    {
+      "id": "key-85e04c421a73988da5bd7709923ecf7a",
+      "type": "I",
+      "text": "Sch. 12 para. 5 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z6)"
+    },
+    {
+      "id": "key-ebf32a485e569ae7dd55eaae28f7fb09",
+      "type": "I",
+      "text": "Sch. 12 para. 6 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z6)"
+    },
+    {
+      "id": "key-1b554087b452710264406e5d408c6deb",
+      "type": "I",
+      "text": "Sch. 12 para. 7 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z6)"
+    },
+    {
+      "id": "key-1323a57114a95a910aff3212445db526",
+      "type": "I",
+      "text": "Sch. 12 para. 8 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z6)"
+    },
+    {
+      "id": "key-79dca7290ced56726c6db4d3cdea5dcb",
+      "type": "I",
+      "text": "Sch. 12 para. 9 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z6)"
+    },
+    {
+      "id": "key-b42222ac5ac15f295ba7da23ba5d8872",
+      "type": "I",
+      "text": "Sch. 12 para. 10 in force at 23.8.2024 by S.I. 2024/858, reg. 2(1)(z6)"
+    },
+    {
+      "id": "key-e7585d1660d0a5a9a41d4f9b7971c274",
+      "type": "I",
+      "text": "S. 44(1)-(8) in force at 17.10.2024 in so far as not already in force by S.I. 2024/1033, reg. 3(d) (with reg. 4)"
+    },
+    {
+      "id": "key-912c29b8d64845d5eba6edbba152107e",
+      "type": "I",
+      "text": "S. 19 in force at 17.10.2024 for specified purposes by S.I. 2024/1033, reg. 2"
+    },
+    {
+      "id": "key-a473b0ef6eb59e106224918f8475a7cc",
+      "type": "I",
+      "text": "S. 41 in force at 17.10.2024 by S.I. 2024/1033, reg. 3(a)"
+    },
+    {
+      "id": "key-3d015d1cba6e60b16d96548e7491b745",
+      "type": "I",
+      "text": "S. 42 in force at 17.10.2024 by S.I. 2024/1033, reg. 3(b) (with reg. 5(1))"
+    },
+    {
+      "id": "key-b5446152339c2793fbacf8a753512a5c",
+      "type": "I",
+      "text": "S. 43 in force at 17.10.2024 by S.I. 2024/1033, reg. 3(c) (with reg. 5(1))"
+    },
+    {
+      "id": "key-57ed03082c5210ab1fbe17dfe9394c98",
+      "type": "I",
+      "text": "S. 44(9)(10) in force at 17.10.2024 by S.I. 2024/1033, reg. 3(d)"
+    },
+    {
+      "id": "key-cdfb22a5402426924e9bd1e5067295af",
+      "type": "I",
+      "text": "S. 45 in force at 17.10.2024 by S.I. 2024/1033, reg. 3(e)"
+    },
+    {
+      "id": "key-39bc78aee63c4f5c467b1981f2cff14c",
+      "type": "I",
+      "text": "S. 46 in force at 17.10.2024 by S.I. 2024/1033, reg. 3(f)"
+    },
+    {
+      "id": "key-c0ac9c72d38479b37b2841954a2f6a51",
+      "type": "I",
+      "text": "S. 47 in force at 17.10.2024 by S.I. 2024/1033, reg. 3(g) (with reg. 5(2))"
+    },
+    {
+      "id": "key-12b3c497172cda48bd74a126d1a27cba",
+      "type": "I",
+      "text": "S. 8(8)(9) in force at 1.10.2025 in so far as not already in force by S.I. 2025/1049, reg. 2(a)"
+    },
+    {
+      "id": "key-e8ab88d5090ba3aa7469e8eff8436bc3",
+      "type": "I",
+      "text": "S. 30 in force at 1.10.2025 in so far as not already in force by S.I. 2025/1049, reg. 2(b)"
+    },
+    {
+      "id": "key-97f4fc6777c78296ad4b7a06272bc7b3",
+      "type": "I",
+      "text": "S. 8(1)-(7), (10)(11) in force at 1.1.2026 in so far as not already in force by S.I. 2025/1049, reg. 3(h)"
+    },
+    {
+      "id": "key-1dffda75ed983689f6a5a165c62c4cd6",
+      "type": "I",
+      "text": "S. 1(1)(2)(4)(5) in force at 1.1.2026 in so far as not already in force by S.I. 2025/1049, reg. 3(a)"
+    },
+    {
+      "id": "key-6c9f23f7e760a1dfdda4a9480bd87327",
+      "type": "I",
+      "text": "S. 1(3) in force at 1.1.2026 by S.I. 2025/1049, reg. 3(a)"
+    },
+    {
+      "id": "key-be2cba5314e2db13a935cc710ef85728",
+      "type": "I",
+      "text": "S. 2 in force at 1.1.2026 by S.I. 2025/1049, reg. 3(b)"
+    },
+    {
+      "id": "key-381cdced5d234382cc6b8cc3e5702ad6",
+      "type": "I",
+      "text": "S. 3 in force at 1.1.2026 in so far as not already in force by S.I. 2025/1049, reg. 3(c)"
+    },
+    {
+      "id": "key-0a613e26cd013cbb8fc3eef8af3b2d84",
+      "type": "I",
+      "text": "S. 4 in force at 1.1.2026 in so far as not already in force by S.I. 2025/1049, reg. 3(d)"
+    },
+    {
+      "id": "key-d0e42512d002aec41d495d5e51b45f81",
+      "type": "I",
+      "text": "S. 5 in force at 1.1.2026 in so far as not already in force by S.I. 2025/1049, reg. 3(e)"
+    },
+    {
+      "id": "key-1b591d87dcdb2963956fb7fc7883ddb8",
+      "type": "I",
+      "text": "S. 6 in force at 1.1.2026 by S.I. 2025/1049, reg. 3(f)"
+    },
+    {
+      "id": "key-cb8f332afc6979ba162c8074aef79482",
+      "type": "I",
+      "text": "S. 7 in force at 1.1.2026 by S.I. 2025/1049, reg. 3(g)"
+    },
+    {
+      "id": "key-2d290ec9506ef630dd4db803be8e1767",
+      "type": "I",
+      "text": "S. 9 in force at 1.1.2026 in so far as not already in force by S.I. 2025/1049, reg. 3(i)"
+    },
+    {
+      "id": "key-569365e357f562397f9b312b9431adc7",
+      "type": "I",
+      "text": "S. 10 in force at 1.1.2026 by S.I. 2025/1049, reg. 3(j)"
+    },
+    {
+      "id": "key-5cee04c1f477f46e8a8c7e66efd3eef6",
+      "type": "I",
+      "text": "S. 11 in force at 1.1.2026 in so far as not already in force by S.I. 2025/1049, reg. 3(k)"
+    },
+    {
+      "id": "key-b2cc6b383b39ec4d407e6638307d8896",
+      "type": "I",
+      "text": "S. 12 in force at 1.1.2026 in so far as not already in force by S.I. 2025/1049, reg. 3(l)"
+    },
+    {
+      "id": "key-62aa7e856c7d74eaa91dd044b3cd5bb0",
+      "type": "I",
+      "text": "S. 13 in force at 1.1.2026 in so far as not already in force by S.I. 2025/1049, reg. 3(m)"
+    },
+    {
+      "id": "key-336f4604764d7c775b501f871fcf3437",
+      "type": "I",
+      "text": "S. 14 in force at 1.1.2026 in so far as not already in force by S.I. 2025/1049, reg. 3(n)"
+    },
+    {
+      "id": "key-79be566648a6dc32deb6b72b494be86e",
+      "type": "I",
+      "text": "S. 15 in force at 1.1.2026 in so far as not already in force by S.I. 2025/1049, reg. 3(o)"
+    },
+    {
+      "id": "key-0ba15c07b631650659e7d5682a7c2644",
+      "type": "I",
+      "text": "S. 17 in force at 1.1.2026 in so far as not already in force by S.I. 2025/1049, reg. 3(p)"
+    },
+    {
+      "id": "key-5b2d9eec17194f172dad69375f3da19b",
+      "type": "I",
+      "text": "S. 19 in force at 1.1.2026 in so far as not already in force by S.I. 2025/1049, reg. 3(q)"
+    },
+    {
+      "id": "key-809d6496dcb6e57c1eeda9e2a5f7ae0f",
+      "type": "I",
+      "text": "S. 32 in force at 1.1.2026 by S.I. 2025/1049, reg. 3(r)"
+    },
+    {
+      "id": "key-3cd1265ec4c43ee9aff231d281285d7f",
+      "type": "I",
+      "text": "Sch. 1 para. 1 in force at 1.1.2026 by S.I. 2025/1049, reg. 3(s)"
+    },
+    {
+      "id": "key-8704dbc2b0d369a286acbb7a8d73172a",
+      "type": "I",
+      "text": "Sch. 1 para. 2 in force at 1.1.2026 by S.I. 2025/1049, reg. 3(s)"
+    },
+    {
+      "id": "key-0c78ed481e6255543226b8524a0f05d7",
+      "type": "I",
+      "text": "Sch. 1 para. 3 in force at 1.1.2026 in so far as not already in force by S.I. 2025/1049, reg. 3(s)"
+    },
+    {
+      "id": "key-53e6a7254dbd5c6496f0799b0e2bd611",
+      "type": "I",
+      "text": "Sch. 1 para. 4 in force at 1.1.2026 in so far as not already in force by S.I. 2025/1049, reg. 3(s)"
+    },
+    {
+      "id": "key-e93ff1ff9b13039275e8577cc0826a04",
+      "type": "I",
+      "text": "Sch. 4 para. 5(2)(c) in force at 1.1.2026 by S.I. 2025/1049, reg. 3(v)"
+    },
+    {
+      "id": "key-007da2ca7258ed2c7b10b46d4881b904",
+      "type": "I",
+      "text": "Sch. 4 para. 6(2)(c), (3)(b)-(d), (4) in force at 1.1.2026 by S.I. 2025/1049, reg. 3(v)"
+    },
+    {
+      "id": "key-9fff4285f1acad39c77ab788e8302d3f",
+      "type": "I",
+      "text": "Sch. 4 para. 18(b) in force at 1.1.2026 by S.I. 2025/1049, reg. 3(v)"
+    },
+    {
+      "id": "key-9c4d7d3b9105f6b6126eb287268ab43a",
+      "type": "I",
+      "text": "Sch. 4 para. 19(3)(b) in force at 1.1.2026 by S.I. 2025/1049, reg. 3(v)"
+    },
+    {
+      "id": "key-4e8030af549b918fffebd25bd4a76a4f",
+      "type": "I",
+      "text": "Sch. 4 para. 39(2)(4)(b) in force at 1.1.2026 by S.I. 2025/1049, reg. 3(v)"
+    },
+    {
+      "id": "key-93078a61c436e7d4e14704104e65fe36",
+      "type": "I",
+      "text": "Sch. 4 para. 41(3) in force at 1.1.2026 by S.I. 2025/1049, reg. 3(v)"
+    },
+    {
+      "id": "key-61da82d4ac6bb494d9cc2f39213bd8d6",
+      "type": "I",
+      "text": "Sch. 4 para. 51 in force at 1.1.2026 by S.I. 2025/1049, reg. 3(v)"
+    },
+    {
+      "id": "key-bd3e8220198d0e5ae157c02b1acef966",
+      "type": "I",
+      "text": "Sch. 4 para. 52(3)(b)(4) in force at 1.1.2026 by S.I. 2025/1049, reg. 3(v)"
+    },
+    {
+      "id": "key-d1c062da390a68937de42e88f4663f76",
+      "type": "I",
+      "text": "Sch. 4 para. 57(4)(b)(ii)(iii) in force at 1.1.2026 by S.I. 2025/1049, reg. 3(v)"
+    },
+    {
+      "id": "key-ff9e0b510127ed1423a354fc56fdaba2",
+      "type": "I",
+      "text": "Sch. 4 para. 65(5)(b)(ii)(iii) in force at 1.1.2026 by S.I. 2025/1049, reg. 3(v)"
+    },
+    {
+      "id": "key-99e232267443dd089cff976bde932530",
+      "type": "I",
+      "text": "Sch. 4 para. 71(2)(c) in force at 1.1.2026 by S.I. 2025/1049, reg. 3(v)"
+    },
+    {
+      "id": "key-42f89d45d45ab8903eff688f57a5d557",
+      "type": "I",
+      "text": "Sch. 4 para. 72 in force at 1.1.2026 in so far as not already in force by S.I. 2025/1049, reg. 3(v)"
+    }
+  ],
+  "source_url": "https://www.legislation.gov.uk/ukpga/2024/15/data.xml",
+  "extracted_at": null,
+  "schema_version": "2.0"
+}

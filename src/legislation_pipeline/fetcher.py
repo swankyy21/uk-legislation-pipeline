@@ -8,6 +8,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from typing import Optional
 from xml.etree.ElementTree import Element
+from urllib.parse import urlsplit, urlunsplit
 
 logger = logging.getLogger(__name__)
 
@@ -20,9 +21,10 @@ LEGISLATION_TYPES = {
 }
 
 _URL_PATTERN = re.compile(
-    r"https?://(?:www\.)?legislation\.gov\.uk/"
+    r"^/(?:(?P<id>id)/)?"
     r"(?P<type>[a-z]+)/(?P<year>[0-9A-Za-z-]+)/(?P<number>[0-9]+)"
-    r"(?P<rest>/[^\?#]*)?"
+    r"(?P<rest>/.*)?$",
+    re.IGNORECASE,
 )
 
 
@@ -31,12 +33,22 @@ class FetchError(Exception):
 
 
 def normalise_url(url: str, resources_only: bool = False) -> str:
-    url = url.strip().rstrip("/")
+    parsed = urlsplit(url.strip())
+    if parsed.scheme not in {"http", "https"} or parsed.netloc.lower() not in {
+        "legislation.gov.uk",
+        "www.legislation.gov.uk",
+    }:
+        raise FetchError(
+            f"URL does not look like a legislation.gov.uk document URL: {url!r}\n"
+            f"Expected format: https://www.legislation.gov.uk/<type>/<year>/<number>"
+        )
 
-    # Strip any existing format suffix
-    url = re.sub(r"/(data\.[a-z]+|resources/data\.[a-z]+)$", "", url)
+    path = parsed.path.rstrip("/")
 
-    m = _URL_PATTERN.match(url)
+    # Strip any existing format suffix.
+    path = re.sub(r"/(?:resources/)?data\.[A-Za-z0-9]+$", "", path)
+
+    m = _URL_PATTERN.match(path)
     if not m:
         raise FetchError(
             f"URL does not look like a legislation.gov.uk document URL: {url!r}\n"
@@ -47,9 +59,15 @@ def normalise_url(url: str, resources_only: bool = False) -> str:
     if leg_type not in LEGISLATION_TYPES:
         logger.warning("Unrecognised legislation type %r — proceeding anyway.", leg_type)
 
+    if m.group("id"):
+        path = path.removeprefix("/id")
+
+    path = path.rstrip("/")
     if resources_only:
-        return f"{url}/resources/data.xml"
-    return f"{url}/data.xml"
+        path = f"{path}/resources/data.xml"
+    else:
+        path = f"{path}/data.xml"
+    return urlunsplit((parsed.scheme, parsed.netloc, path, "", ""))
 
 
 def fetch_xml(
@@ -120,7 +138,12 @@ def fetch_xml(
 
 
 def fetch_versions(base_url: str, **kwargs) -> list[dict]:
-    m = _URL_PATTERN.match(base_url.strip().rstrip("/"))
+    try:
+        normalised = normalise_url(base_url)
+    except FetchError:
+        return []
+    parsed = urlsplit(normalised)
+    m = _URL_PATTERN.match(parsed.path.removesuffix("/data.xml"))
     if not m:
         return []
 

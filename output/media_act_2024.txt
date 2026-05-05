@@ -1,0 +1,355 @@
+title: Media Act 2024
+long_title: An Act to make provision about public service television; about the sustainability of, and programme-making by, C4C; about the name, remit, powers, governance and audit of S4C; about the regulation of television selection services; about the regulation of on-demand programme services; about the regulation of radio services; about the regulation of radio selection services; for the repeal of section 40 of the Crime and Courts Act 2013; for addressing deficiencies in broadcasting legislation arising from the withdrawal of the United Kingdom from the European Union; and for connected purposes.
+type: ukpga
+document_category: primary
+document_main_type: UnitedKingdomPublicGeneralAct
+year: 2024
+number: 15
+status: revised
+isbn: 9780105702658
+
+# Identifiers
+uri: http://www.legislation.gov.uk/id/ukpga/2024/15
+document_uri: http://www.legislation.gov.uk/ukpga/2024/15
+dc_identifier: http://www.legislation.gov.uk/ukpga/2024/15
+
+# Dates
+enactment_date: 2024-05-24
+
+# Dublin Core Metadata
+dc_title: Media Act 2024
+dc_publisher: Statute Law Database
+dc_modified: 2026-01-16
+dc_valid: 2026-01-01
+dc_contributor: Expert Participation
+
+# Available Formats
+  pdf: http://www.legislation.gov.uk/ukpga/2024/15/pdfs/ukpgaen_20240015_en.pdf
+  pdf: http://www.legislation.gov.uk/ukpga/2024/15/pdfs/ukpga_20240015_en.pdf
+  xml: http://www.legislation.gov.uk/ukpga/2024/15/data.xml
+  rdf: http://www.legislation.gov.uk/ukpga/2024/15/data.rdf
+  akn: http://www.legislation.gov.uk/ukpga/2024/15/data.akn
+  html: http://www.legislation.gov.uk/ukpga/2024/15/data.xht
+  html: http://www.legislation.gov.uk/ukpga/2024/15/data.htm
+  csv: http://www.legislation.gov.uk/ukpga/2024/15/data.csv
+  pdf: http://www.legislation.gov.uk/ukpga/2024/15/data.pdf
+  html: http://www.legislation.gov.uk/ukpga/2024/15/data.html
+pdf_url: http://www.legislation.gov.uk/ukpga/2024/15/pdfs/ukpga_20240015_en.pdf
+
+# Geographic Extent
+restrict_extent: E+W+S+N.I.
+restrict_start_date: 2026-01-01
+
+# Structure
+section_count: 56
+paragraph_count: 190
+part_count: 11
+chapter_count: 2
+schedule_count: 12
+number_of_provisions: 382
+statistics: {'TotalParagraphs': 385, 'BodyParagraphs': 154, 'ScheduleParagraphs': 231, 'AttachmentParagraphs': 0, 'TotalImages': 0}
+
+# Table of Contents
+  [part] Part 1 Public service television
+  [crossheading] The public service remit for television
+    [section] 1 Reports on the fulfilment of the public service remit
+    [section] 2 OFCOM reports: wider review and reporting obligations
+    [section] 3 Public service remits of licensed providers
+    [section] 4 Statements of programme policy
+    [section] 5 Changes of programme policy
+    [section] 6 Enforcement of public service remits
+    [section] 7 Power to amend public service remit for television in the United Kingdom
+  [crossheading] Programming quotas for public service television
+    [section] 8 Quotas: independent productions
+    [section] 9 Quotas: original productions
+    [section] 10 Power to create additional quotas for qualifying audiovisual content
+    [section] 11 Quotas: meaning of “qualifying audiovisual content” etc
+    [section] 12 Quotas: further provision about their fulfilment
+    [section] 13 Quotas: independent productions: commissioning code
+    [section] 14 Regional programme-making: Channels 3, 4 and 5
+    [section] 15 Networking arrangements for Channel 3
+    [section] 16 Removal of quotas for schools programmes on Channel 4
+    [section] 17 Quotas: the BBC and S4C
+  [crossheading] Information
+    [section] 18 Power to require information
+  [crossheading] Amount of financial penalties
+    [section] 19 Amount of financial penalties: qualifying revenue
+  [crossheading] Sporting and other events of national interest
+    [section] 20 Categories of relevant service
+    [section] 21 Contracts relating to coverage of listed events
+    [section] 22 Restriction on showing live coverage of listed events
+    [section] 23 Regulations about coverage of listed events
+    [section] 24 Provision of information
+    [section] 25 Sections 20 to 24: further provision
+  [crossheading] Public teletext service
+    [section] 26 Public teletext service
+  [crossheading] Further amendments
+    [section] 27 Further amendments relating to public service television
+  [part] Part 2 Prominence on television selection services
+    [section] 28 Prominence on television selection services
+  [part] Part 3 Public service broadcasters
+    [chapter] Chapter 1 C4C
+    [section] 29 Sustainability duty of C4C
+    [section] 30 C4C’s duties in relation to commissioning programmes
+    [section] 31 Involvement of C4C in programme-making
+    [chapter] Chapter 2 S4C
+    [section] 32 S4C’s powers and public service remit
+    [section] 33 The S4C Board
+    [section] 34 Accounts and audit
+    [section] 35 Amendment of BBC’s obligation to provide Welsh programmes
+    [section] 36 Chapter 2 of Part 3: minor and consequential amendments
+  [part] Part 4 On-demand programme services
+    [section] 37 Tier 1 services
+    [section] 38 Audience protection reviews
+    [section] 39 S4C: on-demand programme services
+    [section] 40 Other amendments of Part 4A of the 2003 Act
+  [part] Part 5 Regulation of radio services
+    [section] 41 Licensing of analogue radio services
+    [section] 42 Licensing and local services
+    [section] 43 Character of local services
+    [section] 44 Local news and information
+    [section] 45 Financial assistance for radio
+    [section] 46 Licensing of non-UK digital sound programme services
+    [section] 47 Radio multiplex licences
+  [part] Part 6 Regulation of radio selection services
+    [section] 48 Regulation of radio selection services
+  [part] Part 7 Miscellaneous and general
+  [crossheading] Amount of penalties etc
+    [section] 49 Penalties under Parts 3A and 3B of the Communications Act 2003
+  [crossheading] Publishers of news-related material
+    [section] 50 Awards of costs
+  [crossheading] Amendments related to the UK's withdrawal from the EU
+    [section] 51 Amendments of broadcasting legislation: UK’s withdrawal from EU
+  [crossheading] General
+    [section] 52 Power to make consequential provision
+    [section] 53 Financial provisions
+    [section] 54 Extent
+    [section] 55 Commencement
+    [section] 56 Short title
+    [schedule] Schedule 1 (untitled)
+  [part] Part 1 Quotas: the BBC
+  [paragraph] 1 (untitled)
+  [part] Part 2 Quotas: S4C
+  [paragraph] 2 (untitled)
+  [paragraph] 3 (untitled)
+  [paragraph] 4 (untitled)
+    [schedule] Schedule 2 (untitled)
+  [paragraph] 1 Broadcasting Act 1990
+  [paragraph] 2 Broadcasting Act 1990
+  [paragraph] 3 Broadcasting Act 1990
+  [paragraph] 4 Broadcasting Act 1990
+  [paragraph] 5 Broadcasting Act 1990
+  [paragraph] 6 Broadcasting Act 1996
+  [paragraph] 7 Broadcasting Act 1996
+  [paragraph] 8 Broadcasting Act 1996
+  [paragraph] 9 Broadcasting Act 1996
+  [paragraph] 10 Broadcasting Act 1996
+  [paragraph] 11 Broadcasting Act 1996
+  [paragraph] 12 Broadcasting Act 1996
+  [paragraph] 13 Broadcasting Act 1996
+  [paragraph] 14 Broadcasting Act 1996
+  [paragraph] 15 Broadcasting Act 1996
+  [paragraph] 16 Broadcasting Act 1996
+  [paragraph] 17 Broadcasting Act 1996
+  [paragraph] 18 Broadcasting Act 1996
+  [paragraph] 19 Broadcasting Act 1996
+  [paragraph] 20 Broadcasting Act 1996
+  [paragraph] 21 Tobacco Advertising and Promotion Act 2002
+  [paragraph] 22 Communications Act 2003
+  [paragraph] 23 Communications Act 2003
+  [paragraph] 24 Communications Act 2003
+  [paragraph] 25 Communications Act 2003
+  [paragraph] 26 Communications Act 2003
+  [paragraph] 27 Communications Act 2003
+  [paragraph] 28 Communications Act 2003
+  [paragraph] 29 Communications Act 2003
+  [paragraph] 30 Communications Act 2003
+  [paragraph] 31 Communications Act 2003
+  [paragraph] 32 Communications Act 2003
+  [paragraph] 33 Communications Act 2003
+  [paragraph] 34 Communications Act 2003
+  [paragraph] 35 Communications Act 2003
+  [paragraph] 36 Communications Act 2003
+  [paragraph] 37 Communications Act 2003
+  [paragraph] 38 Communications Act 2003
+  [paragraph] 39 Communications Act 2003
+  [paragraph] 40 Communications Act 2003
+  [paragraph] 41 Communications Act 2003
+  [paragraph] 42 Communications Act 2003
+  [paragraph] 43 Communications Act 2003
+  [paragraph] 44 Communications Act 2003
+  [paragraph] 45 Communications Act 2003
+  [paragraph] 46 Communications Act 2003
+  [paragraph] 47 Communications Act 2003
+  [paragraph] 48 Communications Act 2003
+  [paragraph] 49 Communications Act 2003
+  [paragraph] 50 Communications Act 2003
+  [paragraph] 51 Communications Act 2003
+  [paragraph] 52 Communications Act 2003
+  [paragraph] 53 Communications Act 2003
+  [paragraph] 54 Communications Act 2003
+  [paragraph] 55 Communications Act 2003
+  [paragraph] 56 Communications Act 2003
+  [paragraph] 57 Communications Act 2003
+  [paragraph] 58 Communications Act 2003
+  [paragraph] 59 Communications Act 2003
+  [paragraph] 60 Communications Act 2003
+  [paragraph] 61 Communications Act 2003
+  [paragraph] 62 Communications Act 2003
+  [paragraph] 63 Communications Act 2003
+  [paragraph] 64 Communications Act 2003
+  [paragraph] 65 Communications Act 2003
+  [paragraph] 66 Digital Economy Act 2010
+    [schedule] Schedule 3 (untitled)
+  [paragraph] 1 (untitled)
+  [paragraph] 2 (untitled)
+  [paragraph] 3 (untitled)
+  [paragraph] 4 (untitled)
+    [schedule] Schedule 4 (untitled)
+  [paragraph] 1 Broadcasting Act 1990
+  [paragraph] 2 (untitled)
+  [paragraph] 3 (untitled)
+  [paragraph] 4 (untitled)
+  [paragraph] 5 (untitled)
+  [paragraph] 6 (untitled)
+  [paragraph] 7 (untitled)
+  [paragraph] 8 (untitled)
+  [paragraph] 9 (untitled)
+  [paragraph] 10 (untitled)
+  [paragraph] 11 (untitled)
+  [paragraph] 12 (untitled)
+  [paragraph] 13 (untitled)
+  [paragraph] 14 (untitled)
+  [paragraph] 15 (untitled)
+  [paragraph] 16 (untitled)
+  [paragraph] 17 Broadcasting Act 1996
+  [paragraph] 18 (untitled)
+  [paragraph] 19 (untitled)
+  [paragraph] 20 (untitled)
+  [paragraph] 21 (untitled)
+  [paragraph] 22 (untitled)
+  [paragraph] 23 (untitled)
+  [paragraph] 24 (untitled)
+  [paragraph] 25 (untitled)
+  [paragraph] 26 (untitled)
+  [paragraph] 27 (untitled)
+  [paragraph] 28 Tobacco Advertising and Promotion Act 2002
+  [paragraph] 29 Communications Act 2003
+  [paragraph] 30 (untitled)
+  [paragraph] 31 (untitled)
+  [paragraph] 32 (untitled)
+  [paragraph] 33 (untitled)
+  [paragraph] 34 (untitled)
+  [paragraph] 35 (untitled)
+  [paragraph] 36 (untitled)
+  [paragraph] 37 (untitled)
+  [paragraph] 38 (untitled)
+  [paragraph] 39 (untitled)
+  [paragraph] 40 (untitled)
+  [paragraph] 41 (untitled)
+  [paragraph] 42 (untitled)
+  [paragraph] 43 (untitled)
+  [paragraph] 44 (untitled)
+  [paragraph] 45 (untitled)
+  [paragraph] 46 (untitled)
+  [paragraph] 47 (untitled)
+  [paragraph] 48 (untitled)
+  [paragraph] 49 (untitled)
+  [paragraph] 50 (untitled)
+  [paragraph] 51 (untitled)
+  [paragraph] 52 (untitled)
+  [paragraph] 53 (untitled)
+  [paragraph] 54 (untitled)
+  [paragraph] 55 (untitled)
+  [paragraph] 56 (untitled)
+  [paragraph] 57 (untitled)
+  [paragraph] 58 (untitled)
+  [paragraph] 59 (untitled)
+  [paragraph] 60 (untitled)
+  [paragraph] 61 (untitled)
+  [paragraph] 62 (untitled)
+  [paragraph] 63 (untitled)
+  [paragraph] 64 (untitled)
+  [paragraph] 65 (untitled)
+  [paragraph] 66 (untitled)
+  [paragraph] 67 (untitled)
+  [paragraph] 68 (untitled)
+  [paragraph] 69 (untitled)
+  [paragraph] 70 (untitled)
+  [paragraph] 71 (untitled)
+  [paragraph] 72 (untitled)
+  [paragraph] 73 Equality Act 2010
+    [schedule] Schedule 5 (untitled)
+    [schedule] Schedule 6 (untitled)
+  [paragraph] 1 (untitled)
+  [paragraph] 2 (untitled)
+  [paragraph] 3 (untitled)
+  [paragraph] 4 (untitled)
+  [paragraph] 5 (untitled)
+  [paragraph] 6 (untitled)
+  [paragraph] 7 (untitled)
+  [paragraph] 8 (untitled)
+  [paragraph] 9 (untitled)
+  [paragraph] 10 (untitled)
+  [paragraph] 11 (untitled)
+  [paragraph] 12 (untitled)
+    [schedule] Schedule 7 (untitled)
+  [paragraph] 1 (untitled)
+  [paragraph] 2 (untitled)
+  [paragraph] 3 (untitled)
+  [paragraph] 4 (untitled)
+  [paragraph] 5 (untitled)
+    [schedule] Schedule 8 (untitled)
+  [paragraph] 1 (untitled)
+  [paragraph] 2 (untitled)
+  [paragraph] 3 (untitled)
+  [paragraph] 4 (untitled)
+  [paragraph] 5 (untitled)
+  [paragraph] 6 (untitled)
+  [paragraph] 7 (untitled)
+  [paragraph] 8 (untitled)
+  [paragraph] 9 (untitled)
+  [paragraph] 10 (untitled)
+  [paragraph] 11 (untitled)
+  [paragraph] 12 (untitled)
+    [schedule] Schedule 9 (untitled)
+  [paragraph] 1 (untitled)
+  [paragraph] 2 (untitled)
+  [paragraph] 3 (untitled)
+  [paragraph] 4 (untitled)
+    [schedule] Schedule 10 (untitled)
+    [schedule] Schedule 11 (untitled)
+    [schedule] Schedule 12 (untitled)
+  [part] Part 1 Amendments of the Broadcasting Acts
+  [paragraph] 1 (untitled)
+  [paragraph] 2 (untitled)
+  [part] Part 2 Amendments of the Communications Act 2003
+  [paragraph] 3 (untitled)
+  [paragraph] 4 (untitled)
+  [paragraph] 5 (untitled)
+  [paragraph] 6 (untitled)
+  [paragraph] 7 (untitled)
+  [paragraph] 8 (untitled)
+  [paragraph] 9 (untitled)
+  [paragraph] 10 (untitled)
+
+# Versions
+2025-10-01 2025-10-01 — http://www.legislation.gov.uk/ukpga/2024/15/2025-10-01
+enacted — http://www.legislation.gov.uk/ukpga/2024/15/enacted
+2024-05-24 2024-05-24 — http://www.legislation.gov.uk/ukpga/2024/15/2024-05-24
+2024-07-24 2024-07-24 — http://www.legislation.gov.uk/ukpga/2024/15/2024-07-24
+2024-08-23 2024-08-23 — http://www.legislation.gov.uk/ukpga/2024/15/2024-08-23
+2024-10-17 2024-10-17 — http://www.legislation.gov.uk/ukpga/2024/15/2024-10-17
+2025-10-01 2025-10-01 — http://www.legislation.gov.uk/ukpga/2024/15/2025-10-01
+2026-01-01 2026-01-01 — http://www.legislation.gov.uk/ukpga/2024/15/2026-01-01
+
+# Effects / Amendments
+unapplied_effects_count: 4
+applied_effects_count: 0
+total_effects: 4
+
+# Commentary (517 items)
+
+# Pipeline
+source_url: https://www.legislation.gov.uk/ukpga/2024/15/data.xml
+schema_version: 2.0
