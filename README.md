@@ -81,26 +81,3 @@ python3 -m unittest discover -s tests
 python3 -m compileall src tests
 ```
 
-## Approach
-
-The code is split into small modules:
-
-- `fetcher.py` normalises legislation.gov.uk URLs and fetches XML with retries.
-- `extractor.py` parses CLML into dataclasses.
-- `serialisers.py` exports JSON, text, HTML, and flat CSV.
-- `cli.py` exposes the command-line interface.
-
-The extractor prefers explicit CLML/metadata fields. For the public legislation type (`ukpga`, `uksi`, etc.), it uses the slug already present in the document or identifier URI, while preserving the full CLML `DocumentMainType` separately.
-
-## Trade-Offs
-
-- The JSON output is intentionally broad, so complex fields such as effects and links remain nested rather than squeezed into a lossy flat schema.
-- CSV and HTML are summary exports; JSON is the canonical structured output.
-- Structural extraction uses the table of contents when present, otherwise it walks major CLML body elements and skips embedded amendment text without document URIs.
-
-## Improvements With More Time
-
-- Add more fixtures across UKSI, Welsh bilingual legislation, EU-origin retained legislation, and section-level URLs.
-- Add schema validation against the published CLML XSD.
-- Add richer effect comparison/version diff helpers.
-- Add optional streaming output for very large documents.
